@@ -1,0 +1,35 @@
+--------Original graph--------
+Component 0 size: 672072
+Component 1 size: 109
+Component 2 size: 109
+Component 3 size: 109
+Component 4 size: 109
+Component 5 size: 109
+Component 6 size: 109
+Component 7 size: 109
+Component 8 size: 109
+Component 9 size: 109
+Component 10 size: 109
+Component 11 size: 109
+Component 12 size: 109
+Component 13 size: 109
+Component 14 size: 109
+Component 15 size: 109
+--------Special graph--------
+Component 0 size: 672399
+Component 1 size: 109
+Component 2 size: 109
+Component 3 size: 109
+Component 4 size: 109
+Component 5 size: 109
+Component 6 size: 109
+Component 7 size: 109
+Component 8 size: 109
+Component 9 size: 109
+Component 10 size: 109
+Component 11 size: 109
+Component 12 size: 109
+--------Original graph simplified--------
+Component 0 size: 551981
+--------Special graph simplified--------
+Component 0 size: 552341

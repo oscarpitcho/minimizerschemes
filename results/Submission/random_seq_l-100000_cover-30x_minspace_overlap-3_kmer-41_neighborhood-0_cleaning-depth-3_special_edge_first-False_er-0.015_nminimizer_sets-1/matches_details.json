@@ -1,0 +1,234 @@
+{
+    "data": {
+        "CCCTCGAATCTACCTGTCCATCCGAACGATACCCCCTAACC | TGTCCATACGAACGATACCCCCTAACCGGGATGTTACAATG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                1
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_46M_165M_144M_175M_118",
+                "M_160M_107M_46M_165M_144"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCCTTCACACACCAGTATTCCTATAATTTACAGGAACGAA | CACACACCAGTTTTCCTATAATTTACAGGAACGAACCTTCC": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                69,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_241M_240M_137M_187",
+                "M_222M_241M_240M_137"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTCTTGTCCTGACAAAACCATCCCATGCGGGCCCACCTC | AACCATCCCATGCGGGCCCACCTCAATCTAAGACTGACAGT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                33,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_107M_33M_97M_135M_210M_90",
+                "M_47M_121M_107M_33M_97"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CATCTCATCAGCAAGAGTAAGGTCTCAAAGAGAGTTGTCCA | AGTAAGGTCTCAAAGAGAGTTGTCCACTAGCTATTTCATTT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                46,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_99M_138M_70M_228M_247",
+                "M_122M_162M_178M_99M_138M_70"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGAGTACCGGACTGCGGTTAGACTGAGCGCTCCCCGGTTGA | GTTAGACTGAGCGCTCCCCGGTTGAAGACCAAGACGTCCCG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                41,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_29M_237M_141M_178M_55",
+                "M_98M_109M_29M_237M_141"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAATGGCACCGAGGACTGGTATCGCGCTACTCGCTTCGCC | TATCGCGCTACTCGCTTCGCCACTTAGTTCAAGTTTTTGAC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                50
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_196M_230M_229M_127M_110",
+                "M_118M_206M_3M_196M_230M_229"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTGCTAACGGGGTTTAGCAAGGGGTCCGTAGCACATTGGG | CCGTAGCACATTGGGTAGGATAAAAATAGGTTTTGGGCTTA": {
+            "same_readset": false,
+            "overlaps": [
+                16
+            ],
+            "components": [
+                48,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_59M_53M_133M_205M_168M_185M_133",
+                "M_144M_225M_36M_59M_53M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTACCCTTCTTTGCACTCCTAGGCACTTCCCTCTGTCCCGC | TCCTAGGCACTTCCTTCTGTCCCGCGTTTAGGTTGTTTTCG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                57
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_102M_43M_55M_185M_54",
+                "M_191M_102M_43M_55"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGTGAACTTTCACCAGCGGCTGTCGCACTCAAGCTGCCTCT | CACCAGCGGCTGTCGCACTCAAGCTGCCTCATATTAAGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                62
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_92M_223M_150M_239",
+                "M_82M_92M_223M_150"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGTAAGGATTAATTACTAGCGTTACCGTAAAATACACACTG | GTAGCGTTACCGTAAAATACTCACTGCCCTGCTTAGTGTCG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                59,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_105M_125M_27M_11M_38M_50",
+                "M_211M_68M_105M_125M_27"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACCGGTCGTCGCGAAGTTACTGGAATGCCTGAGGAGTGTTA | AGTTACTGGAATGCCTGACGAGTGTTACTATTAAGTAGAGC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                74
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_132M_113M_175M_89M_18",
+                "M_166M_196M_132M_113M_175"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCACCAGAAACGACCGGTTACAGGCGGGTGTGTGAGATCCC | TACAGGCGGGTGTGTGAGATCCCTCACCAAAAGGTAACAAA": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                76
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_180M_117M_186M_140",
+                "M_166M_180M_117M_186"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGAGCTTTGGAATGGCTGACCTTTTGTCCCAAGGAAAAGTG | TGGCTGTCCTTTTGTCCCAAGGATAAGTGCCACATAGGATC": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                19,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_77M_55M_81M_119M_96M_255",
+                "M_40M_77M_55M_81"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCAGTACAGAGAGTATTGTGGCTCTCTTAATACACCCAAAT | GTGGCTCTCTTAATACACCCAAATCTTTTGCTGGCCGTCTC": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                15,
+                0
+            ],
+            "edge_weight": 886124,
+            "encodings": [
+                "M_57M_252M_39M_104M_191M_100",
+                "M_233M_173M_251M_57M_252M_39"
+            ],
+            "minimizer_set_idx": 0
+        }
+    },
+    "meta_data": {
+        "number_valid_matches_found": 14,
+        "number_invalid_matches_found": 0,
+        "additional_components_connected": 0,
+        "component_connections": []
+    }
+}

@@ -1,0 +1,43 @@
+-----Graph statistics-----
+Number of nodes in graph: 551981
+Number of selected leaves: 5196
+Number of selected sources: 5172
+Number of selected nodes: 10368
+Number of valid matches found: 3, number of invalid matches found: 0
+Accuracy : 100.0%
+Number of nodes in graph normal (unsimplified): 673707
+Number of nodes in graph special (unsimplified): 673707
+Number of nodes in graph normal (simplified): 551981
+Number of nodes in graph special (simplified): 552341
+Number of nodes removed in graph normal (unsimplified): 121726
+Number of nodes removed in graph special (unsimplified): 121366
+
+
+-----Assembly statistics-----
+-----Unsimplified-----
+Number of contigs in assembly (unsimplified): 17138
+Number of contigs in assembly with additional edges (unsimplified): 17135
+N50 for normal assembly (unsimplified): 289 at index 127
+N50 for special assembly (unsimplified): 289 at index 127
+
+
+-----Simplified-----
+Number of contigs in assembly (simplified): 12540
+Number of contigs in assembly with additional edges (simplified): 12541
+N50 for normal assembly (simplified): 1396 at index 24
+N50 for special assembly (simplified): 1396 at index 24
+
+
+-----Paths statistics-----
+-----Unsimplified-----
+Number of paths in normal assembly (unsimplified): 17138
+Number of paths in special assembly (unsimplified): 17135
+Top 50 Longest path in normal assembly (unsimplified): [966, 938, 718, 705, 658, 609, 556, 535, 532, 514, 511, 487, 482, 474, 469, 461, 456, 455, 449, 449, 441, 441, 440, 439, 439, 433, 432, 423, 421, 420, 405, 402, 399, 396, 393, 383, 381, 379, 376, 375, 374, 363, 361, 358, 358, 353, 347, 341, 339, 337]
+Top 50 Longest path in special assembly (unsimplified): [966, 938, 718, 705, 658, 609, 556, 535, 532, 514, 511, 487, 482, 474, 469, 461, 456, 455, 449, 449, 441, 441, 440, 439, 439, 433, 432, 423, 421, 420, 405, 402, 399, 396, 393, 383, 381, 379, 376, 375, 374, 363, 361, 358, 358, 353, 347, 341, 339, 337]
+
+
+-----Simplified-----
+Number of paths in normal assembly (simplified): 12540
+Number of paths in special assembly (simplified): 12541
+Top 50 Longest path in normal assembly (simplified): [4220, 3357, 3067, 2480, 2415, 2397, 2356, 2314, 2175, 2105, 2030, 2009, 1896, 1866, 1670, 1609, 1564, 1535, 1492, 1425, 1420, 1410, 1375, 1356, 1336, 1304, 1286, 1240, 1236, 1220, 1188, 1150, 1121, 1071, 1046, 1009, 987, 987, 975, 928, 921, 897, 885, 848, 847, 839, 836, 833, 813, 799]
+Top 50 Longest path in special assembly (simplified): [4220, 3357, 3067, 2480, 2415, 2397, 2356, 2314, 2175, 2105, 2030, 2009, 1896, 1866, 1670, 1609, 1564, 1535, 1492, 1425, 1420, 1410, 1375, 1356, 1336, 1304, 1286, 1240, 1236, 1220, 1188, 1150, 1121, 1071, 1046, 1009, 987, 987, 975, 928, 921, 897, 885, 848, 847, 839, 836, 833, 813, 799]

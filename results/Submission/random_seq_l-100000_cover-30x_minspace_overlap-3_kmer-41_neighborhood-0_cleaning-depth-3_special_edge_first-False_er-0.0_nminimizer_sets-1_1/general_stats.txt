@@ -1,0 +1,42 @@
+-----Graph statistics-----
+Number of nodes in graph: 99956
+Number of selected leaves: 1
+Number of selected sources: 1
+Number of selected nodes: 2
+Number of valid matches found: 0, number of invalid matches found: 0
+Number of nodes in graph normal (unsimplified): 99956
+Number of nodes in graph special (unsimplified): 99956
+Number of nodes in graph normal (simplified): 99956
+Number of nodes in graph special (simplified): 99956
+Number of nodes removed in graph normal (unsimplified): 0
+Number of nodes removed in graph special (unsimplified): 0
+
+
+-----Assembly statistics-----
+-----Unsimplified-----
+Number of contigs in assembly (unsimplified): 1
+Number of contigs in assembly with additional edges (unsimplified): 1
+N50 for normal assembly (unsimplified): 99996 at index 1
+N50 for special assembly (unsimplified): 99996 at index 1
+
+
+-----Simplified-----
+Number of contigs in assembly (simplified): 1
+Number of contigs in assembly with additional edges (simplified): 1
+N50 for normal assembly (simplified): 99996 at index 1
+N50 for special assembly (simplified): 99996 at index 1
+
+
+-----Paths statistics-----
+-----Unsimplified-----
+Number of paths in normal assembly (unsimplified): 1
+Number of paths in special assembly (unsimplified): 1
+Top 50 Longest path in normal assembly (unsimplified): [99956]
+Top 50 Longest path in special assembly (unsimplified): [99956]
+
+
+-----Simplified-----
+Number of paths in normal assembly (simplified): 1
+Number of paths in special assembly (simplified): 1
+Top 50 Longest path in normal assembly (simplified): [99956]
+Top 50 Longest path in special assembly (simplified): [99956]

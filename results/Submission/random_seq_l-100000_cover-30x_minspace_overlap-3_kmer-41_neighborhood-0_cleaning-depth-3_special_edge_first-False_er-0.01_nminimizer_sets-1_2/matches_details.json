@@ -1,0 +1,90 @@
+{
+    "data": {
+        "AGTCGGTCTAATTATGACACGAAGTATGTGAGGATGGTCGG | GAAGTATGTGAGGATGGTCGGAGTTCGCGCATTGGCCCGAT": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                3
+            ],
+            "edge_weight": 667008,
+            "encodings": [
+                "M_141M_177M_82M_180M_127M_188",
+                "M_53M_87M_103M_141M_177M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCTCTAGGGCTAGGCAGGCGGAGCCAAATACCGCCAGGCTT | GGCAGGCGGAGCCAAATACCGCCAGGCTTTAGTAAACGTCT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                10,
+                0
+            ],
+            "edge_weight": 667008,
+            "encodings": [
+                "M_110M_167M_129M_114M_226",
+                "M_110M_167M_129"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCTCTAGGGCTAGGCAGGCGGAGCCAAATACCGCCAGGCTT | TAGGCAGGCGGAGCCGAATACCGCCAGGCTTTAGTAAACGT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                10,
+                0
+            ],
+            "edge_weight": 667008,
+            "encodings": [
+                "M_110M_167M_129M_114",
+                "M_110M_167M_129"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTACATAGTAACACTGCCGTCCAGGAGCCCCCAAATTTGC | CACTGCCGTCCAGGAGCCCCCAAATTTGCTCCCATAGACCC": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                12,
+                0
+            ],
+            "edge_weight": 667008,
+            "encodings": [
+                "M_197M_70M_167M_174M_148",
+                "M_189M_197M_70M_167"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTGTGGAAGTGCCTCGATCAGCCGTAACGGTGCCGCAGGG | TCAGCCGTAACGGTGCCGCAGGGGTAAACATCGAGAAATCC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                11
+            ],
+            "edge_weight": 667008,
+            "encodings": [
+                "M_4M_108M_1M_225M_239M_111M_163",
+                "M_104M_157M_4M_108M_1"
+            ],
+            "minimizer_set_idx": 0
+        }
+    },
+    "meta_data": {
+        "number_valid_matches_found": 5,
+        "number_invalid_matches_found": 0,
+        "additional_components_connected": 0,
+        "component_connections": []
+    }
+}

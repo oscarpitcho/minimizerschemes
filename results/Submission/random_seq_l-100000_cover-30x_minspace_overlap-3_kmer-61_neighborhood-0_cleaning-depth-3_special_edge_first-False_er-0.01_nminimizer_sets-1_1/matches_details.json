@@ -1,0 +1,4970 @@
+{
+    "data": {
+        "CAAAGTGCGACCAAGCGTTTAGTGTTATGAATGTGTGGGGTAAAGAAGAAGGCGGTAACTA | GTAAAGAAGAAGGCGGTAACTACGCGTAATTTTTCAATGCGTATAACTTGAGCGTCATGGG": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                8
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_65M_191M_41M_1M_16M_155",
+                "M_28M_242M_117M_122M_65M_191M_41"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAGGTTTATACCCGGCACTTGAGCTGCATGAAGCGTGAGACGATTCCCGGGTGGTTGCCG | GGCACTTGAGCTGCATGAAGCGTGAGACGATTCACGGGTGGTAGCCGTTTAAGAGGTAATT": {
+            "same_readset": false,
+            "overlaps": [
+                48
+            ],
+            "components": [
+                0,
+                13
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_111M_64M_15M_30M_77M_138M_53",
+                "M_38M_232M_111M_64M_15"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGTCGCGTAATATCCGAATGATTAATTCTAGAGGCGCGATTAATTGCTTAGCACTCTACA | GCGCGATTAATTGCTTATCACTCTACACCAAAAATTCTTAACACAGGTGTGCTTCCAGGCT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                14
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_137M_31M_156M_28M_123M_38M_186",
+                "M_46M_1M_115M_174M_137M_31M_156"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATCCAACTCCTGCCCAAGGATATAAAGATTACAACACCCTTATACGTCTCTCACTGCAA | ACACCCTTATACGTCTCTCACTGCAAGACAAACTAAGTTCTAACTGGGATTCCCCGCTCCT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                224,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_232M_3M_2M_37M_246M_0M_200",
+                "M_127M_82M_155M_94M_232M_3M_2"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAAGTGACAGGGCAACCAGAACGTCAGTTTTGTTAGGGTGCGCTCCGGCACAGCACGCCC | CTCCGGCACAGCACGCACGTTGCCTCCTTAGTGGCTGCACATTGGCCCGAAAAATTAGAAC": {
+            "same_readset": false,
+            "overlaps": [
+                19
+            ],
+            "components": [
+                124,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_226M_215M_128M_61M_243M_215M_62M_33",
+                "M_19M_93M_217M_105M_226M_215M_128"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTCTCCCGATCATCGGATCTTGATTTATCCTAGCAGTTCAGTTAATTGGTCGTTGAAGCTA | GAAGTTCAGTTAATTGGTCGTTGAAGCTAAGCCGGCTAAGCACAAATTGCACGAAAGGCCC": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                25
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_217M_166M_198M_4M_215M_128",
+                "M_240M_101M_13M_83M_217M_217M_166M_198"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAAAGGGCCCCGAGATATATAACGTCGCTGAGCCGCGCGCGAAATTGTACGCACAGTCTCA | CCGCGCGCGAAATTGTACGCACAGTCTCATCAATCACAAAAGGCCCGTGGACCGTACCAAT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                418,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_87M_75M_215M_132M_134M_47M_62M_152M_28",
+                "M_131M_155M_183M_87M_75M_215"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACGAGTGACAATTCGGAGGACCGTCGGTGCATCTGCGGATAAGAAAGGGCGTTAACGAC | ATCTGCGGATAAGAAAGGGCGTTAACGACGTTATCAACGCGTGACTCAGCCCTCCGAGTTT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                728,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_32M_191M_133M_142M_136M_14M_147",
+                "M_162M_19M_80M_32M_191M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAATGGGTCACGCGGGGGTACAGTCAGCTGGTGTTCAGTAGTCTTTGGCGCGCAAGCCTA | TTCAGTAGTCTTTGGCGCGCAAGCCTAGAAGGCGCCAGAGACGTTAAAGCAAGTCGCGTAT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                539,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_235M_148M_4M_192M_12M_231",
+                "M_5M_181M_17M_227M_235M_148M_4"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGCGTTCTAACTACTTAGTCTAGTATCCAGGCGCAGAAGAAGAGAATGTTTTAATATCTGT | TAGTATCCAGGCGCAGAAGAAGAGAATGTTTTAATATCTGTTAAAACCAGCCTACCGGCGC": {
+            "same_readset": false,
+            "overlaps": [
+                42
+            ],
+            "components": [
+                411,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_234M_191M_102M_106M_205M_100M_185",
+                "M_246M_212M_146M_234M_191M_102"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAGATGCAACATCACGAAAGGCCCCGCCTATGTCCCATGAGCTTGGCGGCCCTTCATACG | AGCTTGGCGGCCCTTCATACGCTAAATAAATGCGACTACTGTCATGGCAAAAAGGGCCATT": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                13,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_163M_147M_211M_182M_55M_245M_225",
+                "M_104M_44M_177M_131M_58M_169M_163M_147M_211"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAACATCTAATCAGGGTGAAAAACCATCCTCTTTTAATATATACCTACCGCACGTCGCGAA | GAATATATACCTACCGCACGTCGCGAAGCAAGTCGCGATTAAATGCAGTGTCCGGGAGGAC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                34
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_232M_185M_61M_137M_117M_230",
+                "M_44M_110M_105M_33M_209M_232M_185M_61"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAAACATCTAATCAGGGTGAAAAACCATCCTCTTTGAATATATACCTACCGCACGTCGCGA | GAATATATACCTACCGCACGTCGCGAAGCAAGTCGCGATTAAATGCAGTGTCCGGGAGGAC": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                34
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_232M_185M_61M_137M_117M_230",
+                "M_139M_6M_105M_33M_209M_232M_185M_61"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCTCCAGAAACTTATGGAACGCCTTACGCCTCCTATTCCCTTGGTTCTACAAGGTGAGCAG | CTTCCTATTCCCTTGGTTCTACAAGGTGAGAAGAGATAAATGGGTCGAGCGGATCCGAACC": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                310,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_141M_189M_82M_208M_115",
+                "M_95M_170M_141M_189M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAAGCTTACACTTTCAAGGCTCCGTCATTGTATGTTTGTCACACCCATGCCGATCTATCCC | TGTTTGTCACACCCATGCCGATCTATCACCGCATGCAATGCATTCTGTGAGCACTGAAGGA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                335,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_27M_169M_9M_178M_34M_39M_2M_49",
+                "M_31M_111M_82M_226M_75M_27M_169M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCACCACGGGCAATAAATCCGCCGGGTAATTGCGGTCCTGAATGGCGCGGGTATCCCATAG | TCCTGAATGGCGCGGGTATCCCATAGTATAGAGACAACGCACCTTGGCCTCTCGTAGGGAG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                47
+            ],
+            "edge_weight": 691642,
+            "encodings": [
+                "M_234M_130M_169M_173M_23M_204M_209M_45",
+                "M_140M_245M_67M_53M_32M_234M_130M_169"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTGTAAACCTGAGATGATAATTGGAATAGGTCTCTGGGTGACGGGGGCGATAGAGAGAGGA | TGGGTGACGGGGGCGATAGAGAGAGGATACTCATGAACTATCTCATCTAATGGTAACAAAT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                53
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_174M_151M_14M_132M_6",
+                "M_75M_224M_8M_126M_89M_174M_151"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGAAACCTGAGATGATAATTGGAATAGGTCTCTGGGTGACGGGGGCGATAGAGAGAGGAAA | TGGGTGACGGGGGCGATAGAGAGAGGATACTCATGAACTATCTCATCTAATGGTAACAAAT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                53
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_174M_151M_14M_132M_6",
+                "M_120M_224M_8M_126M_89M_174M_151"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACGGGAGGACCCTACGTCCCCTCGTAGGCACGTTTAGTTTTCCTTAGCTGATACACAAA | GTTTTCCTTAGCTGATACAGAAAGGGGGTGTGTACACGCATGAAGTCCCTTACGCGCTCCT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                54
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_223M_161M_210M_177M_162M_88M_24",
+                "M_162M_80M_81M_24M_45M_128M_223M_161M_210"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCTTAGGGACACTGTTAGTCGCAGCAGTCAGCAGCCGGGATTGTTGTGCCGACGCCCGTTT | GTTGTGCCGACGCCCGTTTTTACTTCTAGTACAACCTTCCTCGCGCAACAGGTACATCAAA": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                60
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_20M_121M_7M_63M_146M_23M_38M_228",
+                "M_161M_254M_106M_17M_100M_20M_121M_7"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGAAGGTCGTAAACCACGGTATGGTTTAGTAGTTCTATCTTGAGACCGGGAGCGATATGG | TCTATCTTGAGACCGGGAGCGATGTGGGGTACTGCGGTGTTACGTGTACGGCTCTCTCCTG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                62
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_9M_152M_92M_32M_206M_50",
+                "M_198M_118M_120M_130M_235M_9M_152M_92"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGATGGAGCGCCTTGTGCGAACGTATGAAATGGTACTCTAACGGTGCTGAGATGTGTCTGG | GTACTCTAACGGTGCTGAGATGTGTCTGGACTGCAGGTCGCAGCTACAGCGACAAAGCCAT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                320,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_156M_216M_86M_203M_43M_92M_4",
+                "M_219M_186M_85M_214M_156M_216M_86"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCATAGGCTTCTAACTCTCTCGACCCAGCGCTGAGTCTTGACAGTTTAAGTCCTTGGAGT | GTCTTGACAGTTTAAGTCCTTGGAGTAACACACATTTGACGCGAATGTGAAGGAAGTCATG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                241,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_19M_138M_243M_54M_222M_121M_198M_17",
+                "M_229M_156M_183M_244M_19M_138M_243"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCTATGAATACACCTTGCTTATATACCATCCCAGCAACTTCAACGTTGGAGGTACAATTC | GCTTATATACCATCCCAGCAACTTCAACGTTGGAGTTACAATTCGCTCGTTGCACAACTAT": {
+            "same_readset": false,
+            "overlaps": [
+                45
+            ],
+            "components": [
+                0,
+                71
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_31M_232M_136M_215",
+                "M_9M_204M_31M_232M_136"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CACACGTTACTCAATGGGATCCGCCAACCTCCTTATTAAGATATTAGATCGCAAGATCTTC | ATATTAGATCGCAAGATCTTCGTACTAAAACGGTAGCGAATCGAGACGTACTATGGCTGTG": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                72
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_78M_218M_197M_154M_21M_70M_154M_52",
+                "M_222M_63M_13M_124M_138M_78M_218M_197"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGGGCGCTCGCCCACGTGGTCCGGAGCGGCGAATAGATGCAGCTACTCCACAGCCACCCAC | GAGCGGCGAATAGATGCAGCTACTCCACAGCCACCCACAACCTGCGTCGCAAGTCAGTTAC": {
+            "same_readset": false,
+            "overlaps": [
+                39
+            ],
+            "components": [
+                503,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_224M_43M_100M_23M_17",
+                "M_89M_35M_224M_43M_100"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAGTATACGCTTTCCCCACCCTGAATTGAGTGAAAATGATAGAAAATACACCCTTATTGTA | ATGATAGAAAATACACCCTTATTGTATGCGGACTAGCCCCGGGGCCCACATATGGACCAAG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                137,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_168M_180M_75M_32M_159M_89M_28",
+                "M_232M_233M_195M_135M_168M_180M_75"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGCACCACACCGACTCAAGACTTATGTTCACGTCGAATACGGTACAAGAACCATCGTAACC | TCGAATACGGTACAAGAACCATCGGAACCGTAAACCGAAATGGGTTTGTGGAGGGGTGAGT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                330,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_211M_191M_116M_175M_120M_135",
+                "M_222M_14M_212M_30M_211M_191M_116"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTTAGTCGGGCAGCTCTTAAGCCACGAAGCATGTGGAATCTCCGCTATAAGACCTGGAAA | ATGTGGAATCTCCGCTATAAGACCTGGCAAATAATGCCAAACACGCCAAGTCGGGGTTCAG": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                78
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_103M_188M_190M_180M_213M_162M_144",
+                "M_143M_93M_160M_4M_64M_103M_188M_190"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATCCGTGATCGTACATACCTCGGGCGAATAATACCGTTTACGTAGCAACGTTCGGGATT | ACGTAGCAACGTTCGGGAGTAGTGTGGACCGCCATAGGGGAGTACAGTGTGACTCCCGGTG": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                621,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_85M_136M_144M_235M_152M_98M_36M_117M_247",
+                "M_97M_228M_124M_133M_221M_85M_136M_144"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TACATCGGACAGAGCCAGGTAGGTGTCCGCTAGGCCATCGAAATTTCGGCCCCTAGGGCGT | CATCGAAATTTCGGCCCCTAGGGCGTACCAAATTAGAACACTATGTAGTACGAGAGTCGTG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                17,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_116M_131M_133M_28M_78M_184M_235M_70M_118",
+                "M_228M_254M_56M_91M_116M_131M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCGACTCTCTACCGACGATCGTCTATCCCCGTACAATATCGGACCACTTTTGCCCCGACAG | ACAATATCGGACCACTTTTGCCCCGACAGCATGACACGGTGCCGCACATTCCGTATCCGAT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                94
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_207M_111M_131M_64M_162M_236M_215M_150",
+                "M_156M_185M_59M_9M_251M_207M_111M_131"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CACAAGGCCACGTGGCCGAGACTAGCGACAATTACTTCAGGGTTTATCTCGGGATCAGGCG | ATTAATTCAGGGTTTATCTCGGGATCAGGCGGCGCAGTAGCAACCCGCGTAGTGGGGACTT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                427,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_105M_125M_144M_234M_87M_248",
+                "M_82M_140M_70M_21M_73M_105M_125M_144"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGGGGTATAAAATTAAATCTTCGCGGCCTCCGGCACAGGACGGGGCCGGATGACCGCCCAA | GGGGCCGGATGACCGCCCAACACTACGACATATCGATGATCGCCCAATACTAACTCCGCAC": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                35,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_42M_152M_184M_68M_207M_97M_154M_226",
+                "M_130M_73M_114M_226M_215M_89M_42M_152"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATGCATTCTATCCAGCCGATACACGACTATGATTCCTGCGGGTCGGGATGTAAACATCT | CGGGTCGGGATGTAAACATCTGAGAAAGTCGTATTTGGGCCCTCGAGATAAGGCGCCTTTT": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                106
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_144M_112M_44M_177M_10M_147M_70M_234",
+                "M_39M_100M_108M_200M_32M_144M_112M_44"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTATTCCACAATGTCACCGAGGACTAGTATCGCGCTACTCGCTTCGCCACTTAGTTCTAGT | GCTTCGCCACTTAGTTCTCGTTTTTGACGTGCCCCCGAGCCAGTTTGACGAATTTAACCTC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                585,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_164M_111M_246M_242M_142M_131M_217M_83M_124",
+                "M_51M_80M_207M_164M_111M_246"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTATGAGGCTGCGCGTCAAGATAAGGAGGGGCCGACTCACGCAAGTCGAGCTCTCCAAGA | AGGGGCTGACTCACGCAAGTCGAGCTCTCCAAGAGAAACACACTCCCTAAGTCACGCTAGC": {
+            "same_readset": false,
+            "overlaps": [
+                35
+            ],
+            "components": [
+                0,
+                107
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_14M_160M_222M_141M_17M_91",
+                "M_49M_89M_14M_160"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGGAGTGTATTCTACCTCGACCAGGCCCAGGACATTGATAATGGTCTGATGCAAGACCATC | ATTCGATCTCGACCAGGCCCAGGACATTGATAATGGTCTGATGCAAGACCATCACATGTGT": {
+            "same_readset": false,
+            "overlaps": [
+                54
+            ],
+            "components": [
+                685,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_149M_168M_210M_176",
+                "M_117M_199M_149M_168M_210"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTGATGACCGACACGATTGGTTCCCTCGTGGAGGCGGCTTGCGGTTGACTCTTTCTCTGAG | CCTCGTGGAGGCGGCTTGCGGTTGACTCTTTCTCTGAGCATGCAAATGAACCTAAGAGTCT": {
+            "same_readset": false,
+            "overlaps": [
+                39
+            ],
+            "components": [
+                171,
+                111
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_163M_156M_240M_64M_122M_179",
+                "M_210M_152M_162M_166M_141M_163M_156M_240"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTACCGTAGGTTCTCCCTTGAAGCCGTTTGAACGGACTATCCCCGAGCTTATATACCGTTT | GGTTTGAACGGACTATCCCCGAGCTTATATACCGTTTAGCATGTCTTTGCTAACATCGAGG": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                40,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_31M_232M_242M_64M_25",
+                "M_185M_252M_247M_198M_7M_31M_232M_242"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGTGTTGGACGATATGTTAGTCCCGCTCATTGTAACGGATCCACCGGGCAACGGCAAGAAT | ACCGGGCAACGGCAAGAATAATCTTCATTGGAAGTTTTAGGCAAAAGAAGATGCTCCATCT": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                114
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_172M_136M_191M_110M_196M_220M_191M_165",
+                "M_201M_59M_143M_132M_112M_42M_172M_136M_191"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGGGACCCCCGCGTATTCTTGGGAACATGCAAACGGCAACTCTATTATCAACGCCAACGTG | CAACTCTATTATCAACGCCAACGTGACAGCTGTGGTGTCAGTTTAGGTGACACCCTTTTCT": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                119
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_156M_125M_136M_19M_52M_55M_19M_171",
+                "M_87M_123M_66M_34M_18M_156M_125M_136"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCGGAATCGGGTGCAACGAACCGCCGGCGCGGGAGTTCATTCTCTCTCCGGGCGTTGGAA | AGTTCATTCTCTCTCCGGGCGTTGGAAGTAACAGGAACTCTTAACTCGTAAGTATGGGGAA": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                185,
+                121
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_39M_3M_133M_196M_38M_156M_1M_72",
+                "M_157M_145M_34M_57M_67M_194M_39M_3M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAGCTGCGTGCTATACACCGATTTTGCCAACGGAGCATAGTCTCTTGGGAATGTTGGGGT | CGATTTTGCCAACGGAGCATAGTCTCTTGGGAATGTTGGGGTACGTTTCGCAATACATCGT": {
+            "same_readset": false,
+            "overlaps": [
+                43
+            ],
+            "components": [
+                631,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_137M_213M_143M_242M_228",
+                "M_188M_137M_213M_143"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACGATCCTGCCAAACTTTGTTAGGAGTGTCAATGGTGTCTCGTAAGAAGACGATAAGAAG | CAATGGTGTCTCGTAAGAAGACGATAAGAAGGTCCGGTAGGGAGAGCCGACGCCATTTCTT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                622,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_1M_15M_191M_90M_158M_121M_84",
+                "M_59M_127M_37M_117M_1M_15M_191"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAATGCCGTTTGGAAACGTGAGATGATAATTGGAATAGGTCTCTGGGTGACGGGGGCGATA | TAATTGGAATAGGTCTCTGGGTGACGGGGGCGATAGAGAGAGGACACTCATGAACTATTTC": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                0,
+                124
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_8M_126M_89M_174M_151M_184M_88M_10",
+                "M_5M_7M_224M_8M_126M_89"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACCCGTTTGTAGATCCACCCACCATGCCGAAGCTAAACGGCTCAACTCGTGTACAGTGA | TTGTAGATCCACCCACCATGCCGAAGCTAAACGGCTCAACTCGTGTACAGTGATTATATTC": {
+            "same_readset": false,
+            "overlaps": [
+                54
+            ],
+            "components": [
+                0,
+                125
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_75M_115M_182",
+                "M_251M_75M_115M_182"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCCGGTCATTGGATCCGGAACGGGTAAGGGCGGCGGTATAGGCCGTCGACGACCTGCGTA | GCGGCGGTATAGGCCGTCGACGACCTGCGTAAGCACTTTTCAGAGAGTCCTAGTTCTGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                717,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_41M_74M_127M_111M_12M_146M_214",
+                "M_226M_13M_193M_133M_41M_74M_127"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAAAAAGGTTCACCTTTCGACCGCCTCAATCACGTCCTAGCTTCGCAGACCTGGGCTGGCG | TAGCTTCGCAGACCTGGGCTGGCGCGCGCCCCAGCCCCAGAAATCGCACGGCACGTGAAGC": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                580,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_153M_190M_227M_35M_100M_218M_18M_198",
+                "M_33M_189M_171M_152M_134M_153M_190M_227"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCTGCGTTAGTGGGTGTGGCAGTTAAGGGGGGCTTACTTAGGAAAGCCCCACGCTCTTTTA | TAGGAAAGCCCCACGCTCTTTTACTCTAGCGACGGATTCGAAAAGCAACGACCAAGTCAGA": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                720,
+                130
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_177M_233M_160M_63M_21M_42M_136M_28",
+                "M_248M_217M_89M_63M_177M_233M_160"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGGACCCAATAGTATGTACTCTCAGATCGACTGTCCATATTTGTTCGAGTCTAGCGGCTAA | TCGACTGTCCATATTTGTACGAGTCTAGCGGCTAACAAGCCGTATTTTCGGGTGGGAGGGA": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                0,
+                131
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_237M_10M_244M_25M_4M_10M_144M_36",
+                "M_80M_72M_156M_104M_237M_10M_244"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTGCCTCGCTAGTATTGCATCTAGAGGCTACACTTGTAACGTGTATAAATACGACATGATA | CGTGTATAAATACGACATGATAGGGAGTTCCAAACCTGTACTTCTGCCGTCCATCTGGATC": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                134
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_155M_211M_176M_158M_37M_229M_74M_13",
+                "M_107M_91M_174M_60M_75M_155M_211M_176"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTGCCTGGCTAGTATTGCATTTAGAGGCTACACTTGTAACGTGTATAAATACGACATGAT | CGTGTATAAATACGACATGATAGGGAGTTCCAAACCTGTACTTCTGCCGTCCATCTGGATC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                655,
+                134
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_155M_211M_176M_158M_37M_229M_74M_13",
+                "M_107M_91M_83M_60M_75M_155M_211M_176"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCGTCGGTAGTATTGCATTTAGAGGCTACACTTGTAACGTGTATAAATACGACATGATAG | CGTGTATAAATACGACATGATAGGGAGTTCCAAACCTGTACTTCTGCCGTCCATCTGGATC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                134
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_155M_211M_176M_158M_37M_229M_74M_13",
+                "M_235M_83M_60M_75M_155M_211M_176"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GATAGCTTTAATCGTCAACAGCAGTCCGCGGGGTCTAAAGTTAGATCTCTGGCACACCCTA | TTAGATCTCTGGCACACCCTAGGTTACGATATACGTGGAAAGTCCGTCTGGGACGTGATTT": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                139
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_197M_215M_79M_59M_211M_177M_126",
+                "M_153M_110M_87M_182M_197M_215M_79"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTATCGTATACCTATAAGCAGATCTTACGGGGATAGGAATAATGAGCAATCCTAAAGTGC | TAATGAGCAATCCTAAAGTGCAGGGGACCTCCACGATAACACCCTCTCTTCATCCAACCTC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                322,
+                144
+            ],
+            "edge_weight": 254,
+            "encodings": [
+                "M_5M_134M_182M_203M_124M_109M_250M_114M_124",
+                "M_125M_232M_188M_104M_170M_167M_5M_134M_182"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCTGCCAATAACTAGTCTTAATTACATGGGGCAGTGAAATCGCCTTACACCCGGACTGTC | TGGGGCAGTGAAATCGCCTTACACCCGGACTGTTTTTCACCAGACTGATTTGCCCCGAAAT": {
+            "same_readset": false,
+            "overlaps": [
+                35
+            ],
+            "components": [
+                619,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_214M_170M_106M_30M_210M_131",
+                "M_195M_255M_143M_73M_89M_214M_170"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTCACTTTTGCCGACAATCGGGGTCGCCTGACCCGGGGGGTGCGACCTCGATGTGGATAT | GGGGTGCGACCTCGATGTGGATATTTAGCCGATTTAGTTGCGGACCCTCTTCGTCTTGGTT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                133,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_124M_86M_167M_77M_83M_48M_250M_166",
+                "M_30M_68M_145M_11M_124M_86M_167"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCATAATCCGTTGAGCTCACTTGCATTTCATGCTATATCGAGGGTATACGTCCCAGGCTAT | ATATCGAGGGTATACGTCCCATGCTATTCCCAGGCAATGGGGTCGACACCCCACTCGCCGC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                153
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_207M_105M_211M_169M_220M_68M_233M_67",
+                "M_98M_7M_111M_165M_207M_105M_211"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGGAGTCCATAATCCGTTGAGCTCACTTGCATTTCATGCTATATCGAGGGTATACGTCTCA | ATATCGAGGGTATACGTCCCATGCTATTCCCAGGCAATGGGGTCGACACCCCACTCGCCGC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                153
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_207M_105M_211M_169M_220M_68M_233M_67",
+                "M_36M_98M_7M_111M_165M_207M_105M_211"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGAAACACCATTCATATCAACTAGTAGACCACCACGTCTAAATATCTGATCGTAACTCGAT | CTAAATATCTGATCGTAACTCGATCTATATCCCAGCCAGTTTCATAAAAAACCAATAGACT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                0,
+                154
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_182M_210M_1M_9M_100M_33M_28",
+                "M_39M_159M_140M_182M_210M_1"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAATAACTTTACCATCCTAGCACTTCGCGTCACGAACTCGTCCGGTGATCTTCCTGAGAG | TCGTCCGGTGATCTTCCTGAGAGGATATACTCCTCCGTTGAATGTCTCTCACCCGCACTAC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                709,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_90M_114M_253M_232M_226M_51",
+                "M_255M_111M_181M_90M_114M_253"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCCCCACTACAGGTTAGCAGTTTGTACCCCGCTTCCATACTGGAAACAACGGTGTTATAAC | GAAACAACGGTGTTATAACTTCCCACAATCGCGTTCATAAGAGGGAAGATCCGGGTGATGG": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                669,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_23M_201M_255M_134M_151M_197M_219",
+                "M_131M_60M_217M_98M_23M_201M_255"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AATTGTGCTGAGGACATTACTGCGTACATTAATGGCGATTTGACGAACCATTCTAGGCCCC | TGACGAACCATTCTAGGCCCCAGCGACAGACCGAGACGCGTGTTACAAATATGACAGGCGC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                396,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_57M_39M_131M_92M_152M_15M_201M_180M_19M_234",
+                "M_186M_80M_94M_228M_5M_137M_57M_39M_131"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCAAACACAACCGGGATTTATTGATTACAGCTGTCGAATTTTCTTAAACCGCTTGCGGGG | TACAGCTTTCGAATTTTCTTAAACCGCTTGCTGGGTATGAATGTTTTAACGATAAATGTAT": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                0,
+                173
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_223M_231M_163M_126M_122M_59",
+                "M_241M_23M_230M_94M_52M_223M_231M_163"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGGCGGCGATACGTTTACTCCCCCCGAGCGTCCGGACGTGACTTTGGTGAACAATTGTTT | TGACGTCTTTTGGTGAACAATATATTGTTCATCTCCTCAACTTTCTATGGCTGGCCGCTTG": {
+            "same_readset": false,
+            "overlaps": [
+                0
+            ],
+            "components": [
+                725,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_142M_148M_66M_101M_84M_227M_163",
+                "M_108M_63M_142M_148M_66"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTGGGAGGGACCACGTTCAGTTCAAGTTTCCCAGTTCGCAACAGATCGGCGCGCATTCCA | TTCGCAACAGATCGGCGCGCATTCCAAAGCGGGAATGACAGTAGCAGTTTTGAGGCTAACT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                175
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_104M_234M_39M_194M_19M_217M_25",
+                "M_0M_158M_140M_217M_217M_104M_234M_39"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CACGAATGTAAGACTCGATTTCGTTGGAGTCGCGCACCAGACCCGTCACTAAAGCACAGCG | GCACCAGACCCGTCACTAAAGCACAGCTCATGTTAAAGTTTAAACGCTCCAGAAACTTAAG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                182
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_182M_215M_132M_231M_231M_95",
+                "M_109M_112M_137M_251M_182M_215"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGAGGGGTGTTGTATTTGTAGGCGCCCAAATGAGGGAGCTCGCCATAAGAATTGTAACGAG | GAGCTCGCCATAAGAATTGTAACGAGACGTCATATCCGTTTGTCTGAGACGGGATCACTCT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                184
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_98M_102M_112M_70M_7M_15M_13M_156",
+                "M_201M_10M_56M_35M_158M_98M_102M_112"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTATAAATACCACATGATAGGGAGTTCCAAACCTGTACTTCTGCCGTCCATCTGGGTCTCT | GCCGTCCATCTGGGTCTCTTTACGTTCCTCCTTGCCATATACACCCTAGTTCCAGAAAATG": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                189
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_74M_126M_3M_243M_98M_79",
+                "M_155M_221M_176M_158M_37M_229M_74M_126M_3"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGATTGACCCAACCTCTTCCGCCCCGTGGCAACGGTATCTAACGCTAGAGAGCCGCAGTTA | TAACGCTAGAGAGCCGCAGTTATTCAACATCTAATCAGGGTGAAAAAACATCCTCTTTGAA": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                451,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_91M_99M_217M_44M_110M_105M_33M_44",
+                "M_137M_124M_150M_251M_245M_130M_25M_91M_99M_217"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACAGCCATTGATAAGGGCGCCGCGGATGCTTTACCTTGGAGCTAGCGTCGTGCGTGCCATA | TACCATGGAGCTAGCGTCGTGCGTGCCATACCCTTCTAGCATTTCACCAATCTTTTTCCTA": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                472,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_43M_118M_236M_221M_229M_30M_134M_16",
+                "M_100M_168M_133M_87M_165M_43M_118M_236"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGTATTACAAGGAGTCAGAAGTTTCGAAGAGGCCCTGGTCTAAGGAAGTAACATCTCTCT | GGTCTAAGGAAGTAACATCTCTGTACGTTGACCGAATGAGTAATGATTGAACTTATCGACA": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                10,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_49M_54M_3M_152M_135M_212M_68",
+                "M_94M_49M_151M_195M_49M_54M_3"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCAGTGAGGTCTACACCCTTCCTAGGTCGTCCGTTGTTACTCACGTAGGTATACGTTGGTC | CACGTAGGTATACGTTGGTCACTGAACGCAGCCAGCGCATTCCCGAGCATGATGCGGATCT": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                715,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_61M_130M_166M_2M_100M_113M_64M_32",
+                "M_8M_8M_7M_63M_61M_130M_166"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCCTAGCGTGAACCGTCTTGACTCTACGCCCCGAAACACAATCGGGGCCGAGGGATCAGTG | ACACAATCGGGGCCGAGGGATCAGTGATCCCACAGTCTTGTCCATACCCCCCGATTATTGG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                274,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_134M_89M_158M_244M_237M_137",
+                "M_21M_175M_156M_35M_134M_89M_158"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATATGTGAGTCGGGCTATGTAGCAGCTAGATCTACCCTGTGAAATTATCTGCACTACAT | TGAAATTATCTGCACTACATGTGGACCATGTGAGCATCACCCACAGTTAGTTTTCCGTGGA": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                87,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_214M_125M_60M_202M_217M_223",
+                "M_188M_135M_58M_43M_199M_214M_125M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGTCCTTGCTGCGTCCGTACCCTGAGAGGCACATTCCAAAGTCAGTACTGTACATCTCGTA | CACATTCCGAAGTCAGTACTGTACATCTCGTAAGAGAGGCTCTGTTCACTCTAATCACTGG": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                204
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_39M_17M_228M_1M_253M_160M_30M_6M_2",
+                "M_243M_187M_195M_151M_39M_17M_228"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTGACAGTCCTTGCTGCGTCCGTACCCTGCGAGGCACATTCCGAAGTCAGTACTGTACAT | CACATTCCGAAGTCAGTACTGTACATCTCGTAAGAGAGGCTCTGTTCACTCTAATCACTGG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                204
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_39M_17M_228M_1M_253M_160M_30M_6M_2",
+                "M_11M_243M_187M_195M_220M_39M_17M_228"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACGTGCCGCTGCACTGAGAAAACTGCGCTAGCAGTTGATAGACTAATAACGCAGTCTAGT | ACTGCGCGAGCAGTTGATAGACTAATAACGCAGTCTAGTCGCCTCTACGTAAGAGTTTCTG": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                478,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_217M_6M_244M_209M_85M_179",
+                "M_142M_183M_2M_205M_91M_217M_6M_244"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGATCCACCTTTAGACCCCTCGTTCCGGGACACCAGCGATTAGTGTGTGGACTAACGGCT | TCCAGCGATTAGTGTGTGGACTAACGGCTACTTCGGCATAGGAATACGTTTGGGCGATTAC": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                498,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_92M_248M_25M_164M_211M_148M_137",
+                "M_204M_250M_150M_254M_92M_248M_25"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCCTTAAAACAGCCGTATTCATACTGGGCCTGGGTAATGGAATTAGAGGCTATGTCCAGGT | GGTAATGGAATTAGAGGCTATGTCCAGGTCACAAGCCGAGCCGAATGCTAGGACCACCTCG": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                48,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_53M_73M_58M_8M_4M_115M_91M_204",
+                "M_231M_100M_0M_190M_53M_73M_58"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCTTTGCTGGACACGTCTATGACGCAACTTTTTCTGCAGGCCGCAAGCAGTACATTCGGA | AGCAACTTTTTCAGCAGGCCGCAAGCAGTACATTCGGAGAAGTAAGTGAGAGGAGTTGCTT": {
+            "same_readset": false,
+            "overlaps": [
+                39
+            ],
+            "components": [
+                403,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_16M_203M_228M_249M_54M_253M_238",
+                "M_171M_227M_162M_9M_121M_16M_203M_228"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTGCACGGGCAAGACGCAGCCGGGGTGCTAACGGGGTTTAGCACGGGGTCCGTAGCACAT | TAACGGGGTTTAGCACGGGGTCCGTAGCACATTGGGTAGGAGAACAATAGGTTTTGGGCTT": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                212
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_128M_187M_215M_56M_66M_252",
+                "M_128M_245M_121M_40M_25M_128M_187M_215"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCACCAGACGGGTCCACCCCTGCCTATTCCACGCACCGAGTCGTGCTGTACTACCGTCCT | ACCGAGTCGTGCTGTACTACCGTCCTATTGAACAGGGTTGTAGTAAAATTTAGACGGGAAG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                217
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_118M_52M_185M_66M_20M_54M_83M_230",
+                "M_15M_237M_195M_140M_118M_52M_185"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAAGTAGGGCACTACTTGTGCCAACCGGCCAACTGCGACATTATTGTTCGGTTCAGGGCAA | CAACTGCGACATTATTGTTCGGTTCAGGGCAAAATGAAGGAGCTGAGGCTGCACTGAGGCT": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                520,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_68M_189M_93M_122M_216M_2",
+                "M_69M_93M_186M_172M_68M_189M_93"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTACGACTCCTGAGCGTTAGCATCTGGCTGAAGAGCGTACACGTGCGAGGCTCCGTCGGC | CCTGAACGTTAGCATCTGGCTCAAGAGCGTACACGTGCGAGGCTCCGTCGGCCGCTAGAGT": {
+            "same_readset": false,
+            "overlaps": [
+                53
+            ],
+            "components": [
+                0,
+                222
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_99M_162M_226M_91",
+                "M_170M_216M_99M_162M_226"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AATCGAACGTTCCGGCCATGCTGCTGCTGTTTCACTGAGCCCGTGAGTTCCCAGGTAGTAG | ACTGAGCCCGTGAGTTCCCAGGTAGTAGAGCGTCGCTTCTATCCGCAACCAGAATACGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                24,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_62M_135M_235M_99M_229M_102",
+                "M_57M_150M_165M_52M_30M_62M_135M_235"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGCAGGTCTGTCGTTTATGGAAGTTTGTTTATGCGATCTTCAACTGATTCTGCTAGAAC | GCGATCTTCAACTGATTCTGCTAGAACGCGACCATTCCCGTACTATATGAGAGTCGGTCTA": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                230
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_114M_210M_91M_39M_187M_188M_253",
+                "M_203M_46M_196M_114M_210M_91"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGGAATAAGTAAGTTTCATCGGGCAATTCTGTGAACATCATATATAACAAGGAAACCGTCG | CATATATAACAAGGAAACCGTCATGCCAGGCTGTCAAAATCGTCAAACATTTACCGCGGAC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                258,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_155M_82M_120M_213M_52M_47M_37M_83M_87",
+                "M_193M_69M_101M_93M_66M_155M_82M_120"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTTGTCCTTACCCAGCCGTGCCCAAGGTATGTAACAATCGATCGGCAGATGCGGTGATA | CGATCGCCAGATGCGGTGATAGAGGGGCGGCCCTTGCAACCTGTAGTCTGCTGTTGCAAGA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                346,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_97M_104M_41M_174M_133M_147M_34M_235M_52M_34",
+                "M_27M_170M_100M_236M_82M_58M_134M_97M_104M_41"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGCCTGCGGTGAGACACCACCCGATCCTCAAAGACCGATTGGCGAGTTATCTAAGACTGGA | AAAGACCGATTGGCGAGTTATCTAAGACTGGACACCGTCGGGTAATCAAATGAGAGGGGTT": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                237
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_152M_125M_0M_175M_53M_253",
+                "M_127M_152M_125M_0"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACCATCTATCCCATGGAAGCGTGCGCCGACCCCACACTCCGGCCCAACCAATGCTTTCC | GCCGACCCCACACTCCGGCCCAACCAATGCTTTCCTCCCATGAGTGGCAACATAGATCCTA": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                27,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_233M_226M_28M_247M_135M_245M_197",
+                "M_9M_169M_196M_67M_233M_226M_28"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CACCGTATTCCCGGTGATAGAGAATAATGTTCTGGCATTTGTCGCGTTTTAAATAAAGTCG | GGCATTTGTCGCGTTTTAAATAAAGTCGTGAAACGATGGCTCAGGGATTACTACTATTGGT": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                265,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_27M_242M_180M_118M_59M_158M_63M_166",
+                "M_175M_90M_174M_5M_27M_242M_180"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAACTACCCACGATTGTCCCTTTAGCCGGCAAATTCACGTACGTTTTCGGGTGATGTTTCC | ACGTTTTCGGGTGATGTTTCCCCAATAGCATGACAACCGTAAACTTGTTGCTATTGCGACA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                673,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_242M_144M_86M_233M_64M_23M_1M_48",
+                "M_140M_27M_171M_40M_30M_242M_144M_86"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AACAACCTCCCGCTTACGCAACGCGTCTGCGAACTGGGTGGTACCTCCGATGTTAGCCCTG | GGTGGTACCTCCGATGTTAGCCCTTCGGTGGTAAAACAATAGCAAAGTATCTCGGAGGTGG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                535,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_124M_29M_77M_164M_205M_241M_157",
+                "M_23M_247M_31M_136M_57M_124M_29M_77"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCGTGTTAGTCTACCTGATGAAAGATCTGAAAAAAATGCATTCCAGCGCCTGGGAAGCAT | ATCTGAAAAAAATGCATTCCAGCGCCTGGGAAGCATGGGCCATGTGAGGCCTGCGGAATCG": {
+            "same_readset": false,
+            "overlaps": [
+                37
+            ],
+            "components": [
+                0,
+                260
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_214M_39M_190M_64M_225M_127M_103",
+                "M_201M_244M_210M_177M_214M_39M_190"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGTTTAGTTTTCCTTAGCTGACACAGAAAGGGGGTGTGTACACGCATGAAGTCCCTTACGC | ACACGCATGAAGTCCCTTACGCGTTCCTAATAACCCTCCCTCCAGTGTGGTTATAGATACT": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                262
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_162M_88M_24M_6M_250M_117M_173",
+                "M_242M_223M_161M_11M_177M_162M_88M_24"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGGTTCAGAAAATTGGACCGAACAAATGAAGTGGACAAGTCACCAATTCATAGAACACCTC | GTGGACAAGTCACCAATTCATAGAACACCTCTAGTTCCGGGGCGCCTCCTCTAGTTTTTTG": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                271
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_254M_17M_66M_209M_150M_133M_209M_16",
+                "M_189M_152M_122M_254M_17M_66"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCACATCGTACGACTTTTTGGCTTTATTAACTTAGACGGGGGCAGTTGGGTCGACCCCGGA | TATTAACTTAGACGGGGGCAGTTGGGTTAACCCCGGAATAGGATAGTGCAACCTTGAACGC": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                434,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_89M_238M_193M_167M_34",
+                "M_44M_16M_212M_89M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGATACTTTTCGCGTGCTTAAATTAGATAGTCCATGGGATTCTAGCGAGAATCGAAATGTC | ATTCTAGCGAGAATCGAAATGTCCAACGACTCCACGCTATGCATTCTATCCAGCCGAGACA": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                56,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_21M_102M_51M_136M_140M_39M_100",
+                "M_167M_223M_31M_73M_143M_200M_21M_102M_51"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCAAAAACGAACATTGAAACCTACTACAAACCTGTGACTTATGCTCGCAGGGGAGTTATCG | GTGACTTATGGTCGCAGGGGAGTTATCGAGTCGTAATCGCGGAGGTATCAGTTTCTTTCTT": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                281
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_203M_125M_118M_218M_130M_217M_84",
+                "M_241M_57M_214M_81M_37M_212M_203M_125"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATCGAGACGTACTATGGCTTCGCAGTAATACTGTACCAGTTTGATCAAATTCTTACCGGAG | TACTGTACCAGTTTGATCAAATTCTTACCGGAGCCGCGATTGTAGATAGGGGGTTGCAATA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                540,
+                286
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_217M_123M_172M_87M_75M_34",
+                "M_70M_154M_164M_54M_217M_123M_172"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGTCCTAGAGGCGTCATTAGAAACGTACGTCACAGTACGAGTGTGCCGTCTCGATGTACA | CCTCACAGTACGAGTGTGCCGTCTCGATGTACAGCAGGGGATGGACACGAAAGTACATCAA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                196,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_117M_74M_29M_203M_219M_162M_69",
+                "M_174M_129M_85M_117M_74M_29"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGCTTCGATCACAATCCCGCTAGCACCGTCGCAAAAGTAACAGGGGATTTGGTGACCAGT | ACGGTCGCAAAAGTAACAGGGGATTTGGTGACCAGTGAGGTCTACACCCTTCCTAGGCCGT": {
+            "same_readset": false,
+            "overlaps": [
+                37
+            ],
+            "components": [
+                316,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_241M_54M_148M_8M_74",
+                "M_153M_134M_91M_175M_241M_54M_148"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAATGCCGTTTGGAAACGTGAGATGATAATTGGAATAGGTCTCTGGGTGACGGGGGCGATA | AATAGGTCTCTGGGTGACGGGGGCGATCGAGAGAGGATACTCATGAACTATTTCATCTAAT": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                288
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_8M_126M_89M_97M_253M_108M_88M_10M_6",
+                "M_5M_7M_224M_8M_126M_89"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGACGACACGGATAAGTTAACAACCATGTGCAAATATGCAGTCTTGTTCTTAGCAGAGCGG | TGCAGTCTTGTTCTTAGCAGAGCGGTCTCATTACACTTAAGCCGCTCTTAGTGAAGTATCG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                100,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_244M_246M_12M_132M_184M_4M_160M_248M_69",
+                "M_68M_42M_23M_202M_241M_244M_246M_12"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAAGTAGGGCACTACTTGTGCCAACCGGCCAACTGCGACATTATTGTTCGGTTCAGGGCAA | CGACATTATTGTTCGGTTCAGGGCAAAATTAAGGAGCTGAGGCTGCACGGAGGCTGAACAC": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                520,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_68M_189M_93M_73M_216M_128M_216",
+                "M_69M_93M_186M_172M_68M_189M_93"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGACTTACTTTTGTGGCCCTCGCAAGATATGCACGCAGCACGTCTGGATTAGGTCTCTTAC | GCAGCACGTCTGGATTAGGTCTCTTACCTCTTATGCAAGCTCTCCTCAATTCCAGTCCGAG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                683,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_128M_78M_3M_124M_34M_160",
+                "M_212M_147M_128M_128M_78M_3"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AACACAACAAATTACAGTTCAGATCTTACCGCCTGATAACCGTTAGGTCGAGCCGCCGCCC | ACCGTTAGGTCGGGCCGCCGCCCCACCTGGGTCCAGATGATGTGTACTAGGCTCTTTAATA": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                292
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_175M_8M_67M_233M_190M_237M_86M_154M_160",
+                "M_23M_73M_217M_104M_170M_210M_175M_8M_67"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCAGTGAGGTCTACACCCTTCCTAGGTCGTCCGTTGTTACTCACGTAGGTATACGTTGGTC | CACGTAGGTATACGTTGGTCACTGAACGCAGCCAGCGCATACCCGAGCATGATCCTGATCT": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                715,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_61M_130M_166M_2M_100M_113M_64M_210",
+                "M_8M_8M_7M_63M_61M_130M_166"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAGCAAGTTGTTCAGCCCTTCTAATAGCGTTCAGACGAAACGGTGATACTGTCTATGCCAT | CAGACGAAACGGTGATACTGTCTATGCCATCGACTGTCTACGACCCAATTCACTGGCATCC": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                294
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_15M_168M_9M_116M_199M_30",
+                "M_238M_26M_229M_21M_15M_168M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTCCATCCTTACCGCCCCGAAAGTTCTACTCGTTGACGCCATGGTCGACGCAGTCCTTT | GACGCCATGGTCGACGCAGTCCTTTGGCCCGACATGTCCGTTTCAATAGCAGAACATACGT": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                711,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_121M_121M_243M_62M_176M_7M_66",
+                "M_243M_178M_115M_246M_121M_121M_243"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGATCCTAGTAATGTACTGCACAAGCCCCATGATCTGGCAACTCCACCGACGTCACTACGA | GCCCCATGATCTGGCAATTCCACCGACGTCACTACGATCCAGGAGGTTGATAAACCTTGGG": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                33,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_131M_245M_142M_59M_149M_168",
+                "M_146M_215M_131M_245M_142"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAGTCGTGCAACGAACTAGCTCGCAATGGAAATGTAGCATCCGGTTCAGAGCAGGTCCGG | ATCCGGTGCAGAGCAGGTCCGGTGTTAGATCCTCCCATAGGAATACAAAACCCTGGGAAAG": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                635,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_90M_12M_8M_201M_197M_247M_47M_195M_177",
+                "M_143M_34M_57M_153M_90M_12M_8"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATGGAGAACGGCCCATTTGGGACCTCCGCGTAAGTTTACTATCACATCTTTCCGGCGAGTA | TTTACTATCACATCTTTCCGGCGAGTACACCTTCTTCTTTTACGCCGTGTGACTTACCCTA": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                308
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_63M_44M_150M_204M_114M_67M_212M_79",
+                "M_249M_18M_148M_124M_1M_63M_44M_150"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGATCTGGTTGAGTCTGGTTGGAGTTCCCTACCCGTATCTCCGGTCTATTATATTGTGGG | CCCGTATCTCCGGTCTATTATATTGTGGGGAACACTCCGGGTGCTCGTCTCGAAGAAGCGA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                581,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_226M_9M_66M_226M_191",
+                "M_59M_76M_135M_76M_141M_251M_226M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTTGTAAGTATGCGGAATAGTATAAGAGACTGGATGGTCGTTCGAACAAGTTTAGGCTTG | GGTCGTTCGAACAAGTTTAGGCTTGTATAACTAACCCATTGATGGCCGCCCGGAAGTCCGC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                309
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_118M_57M_163M_155M_25M_219M_35M_196",
+                "M_75M_72M_193M_155M_0M_118M_57M_163"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTGTAGTGCATGGAGATTCCACTGCGGAATTTCTACTCTGCTAGCCCCCCGTGAGTCTCG | CTGCTAGCCCCCCGTGAGTCTCGGAAGTGATCAGCGTAGCCATCAATGCCGCTCTTGACTA": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                610,
+                311
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_91M_251M_244M_193M_26M_77M_160",
+                "M_75M_64M_200M_2M_193M_84M_156M_91M_251M_244"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGCGAGTCTAGCGGCTAACAAGCCGTATTTTCGGGTGGGAGGCACGAGGCTCAAGCCATG | GGTGGGAGGCACGAGGCTCAAGCCATGTGAAGGAGAGGCTGAACAGAAAGATCAAATATTT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                375,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_36M_128M_4M_198M_253M_216M_177M_180",
+                "M_244M_25M_4M_10M_144M_36M_128M_4"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTGAAATCACAAGATCGTGCGGATCCTATGTGGAATCAGAGACTTTTATCTTGACGGGAC | TTGGAATCAGAGACTTTTATCTTGACGGGACTCTCGATCACACACCCTGATTAAAGGGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                320
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_103M_125M_230M_50M_222M_195M_231",
+                "M_214M_197M_32M_58M_103M_125M_230"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAACACTGCGGCCCGTCAACTCTAACCTGTACGCGTCGCATCGATTGGTGGTGCTCGTAAC | ACGCGTCGCATCGATTGGTGGTGCTCGTAACACTGAGAAGTCGAAGATAGGTCATTAAACA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                486,
+                332
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_113M_137M_1M_2M_8M_231",
+                "M_184M_62M_156M_113M_137M_1"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGAAAGCCATCACCGCCGGCACAATCCTATTGGACAAAGTGTCACCTTTCGTCAGCCCCG | AAAGTGTCACCTTTCGTCAGCCCCGTGAACTGGCCCGGCTGAACGCGTGACCCCAACTATA": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                334
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_117M_204M_26M_251M_0M_216M_233M_188",
+                "M_214M_178M_215M_254M_117M_204M_26"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCCTGCACCTTAAGTACGTATAAAATTGAACATCGTCTGGCCCTGGTGCACTTGTAAGTTG | TCTGGCCCTGGTGCACTTGTAAGTTGGATGATTGTCTACATATGGAATCAGAGCGTTGGCT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                332,
+                337
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_147M_111M_238M_27M_228M_103M_99",
+                "M_127M_138M_85M_66M_147M_111M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCCAGCTGAGCAAGTTGCGTCTTCTATGCATCTTTAGCAAGGGGTGGTTTCGCTGTAGCT | ATCTTTAGCAAGGGGTGGTTTCGCTGTAGCTTGGCATTTGTTACCCGGTCTCTGATCAAGA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                338
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_82M_183M_153M_90M_96",
+                "M_237M_216M_238M_114M_82M_183M_153"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTGATGGCTCGAGGCCAGAATCGAACGTGCCTAGGGCTTTTTGTTGAGTAGAGATTAAACT | GCTTTTTGTTGAGTAGAGATTAAACTGGGAGCGCCTCTCGGTTCAGAAAGTTGGACCGAAC": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                339
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_16M_135M_231M_126M_209M_189M_177M_152",
+                "M_210M_225M_103M_236M_16M_135M_231"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGCATGAAGCCAAAACGAGTTTTACGCCGTAGTAGAGGAATTCTCAAAATCGCTCGTTCTA | ATTCTCAAAATCGCTCGTTCTATTTAAAGTACCTACGCGACCATTTCTAAACGTTGGGGGG": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                340
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_240M_218M_246M_83M_69M_81M_84",
+                "M_64M_4M_205M_67M_22M_240M_218M_246"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AATTGTGCTGAGGACATTACTGCGTACATTAATGGCGATTTGACGAACCATTCTAGGCCCC | TTTGACGAACCATTCTAGGCCCCAGCGACAGACCGAGACGCGTGTTAGAAATATGACAGGC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                396,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_57M_39M_131M_92M_152M_15M_201M_180M_19",
+                "M_186M_80M_94M_228M_5M_137M_57M_39M_131"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CATCTAAGCGGTTATCAGTAATCCCTTATGATTGGCCACCTTGTCAGATCCTTTACTTCCT | CTTGTCAGATCCTTTACTTCCTTTTTCCATAGCCACAGTACCTACGGCAGCGGTAAAACGT": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                525,
+                349
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_27M_197M_63M_243M_98M_239M_81M_41M_205",
+                "M_41M_54M_141M_225M_27M_197M_63"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGCCAGAGCCACGACGCCGGGAGCGATAGGTGTCGGACGGTGATGCGAAGTAATAGCTGT | GTGTCGGACGGTGATGCGAAGTAATAGCTGTCCCTTGGTTTGCACAGTGGCGTATGCTAAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                373,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_46M_69M_153M_24M_166M_215M_72M_182",
+                "M_236M_99M_109M_67M_92M_46M_69M_153"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTCACGTCATATGGGATCTCTCTTACGCGGGGCCCTATAGTTAGCGGGTGCCATAAGAGC | TGTTAGCGGGTGCCATAAGAGCATAGCGCCAACTTGATCCGCTTGATCTCACCTCCCCCCT": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                43,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_21M_236M_99M_21M_163M_204",
+                "M_30M_13M_3M_194M_147M_21M_236M_99"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGATTGTGAATGACCCTCGCTTTATGTGACTCCGGCCCAGCAATCATGTACCCTAGGTG | TTTATATGACTCCGGCCCAGCAATCATGTACCCTAGGTGTATTGCTCTCGCGATAACAGTA": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                179,
+                365
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_226M_134M_79M_160M_255",
+                "M_250M_58M_226M_134M_79"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGACTTGATTGTGAATGACCCTCACTTTATATGACTCCGGCCCAGCAATCATGTACCCTAG | TTTATATGACTCCGGCCCAGCAATCATGTACCCTAGGTGTATTGCTCTCGCGATAACAGTA": {
+            "same_readset": false,
+            "overlaps": [
+                37
+            ],
+            "components": [
+                0,
+                365
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_226M_134M_79M_160M_255",
+                "M_250M_226M_134M_79"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCGGGATCTTCTTATTTCGGTCATTAGTTGAGCTAAACCACCCTGCTGGTTCTTGGAAAG | ACCACCCTGCTGGTTCTTGGAAAGGTTGCAGTCTAACTGTACTGGGTCGACTTGGAAAAAG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                0,
+                369
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_195M_76M_177M_244M_0M_33",
+                "M_194M_114M_10M_129M_43M_195M_76M_177"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATCTTCTTGTTTCGGTCATTCGTTGAGCTAAACCACCCTGCTGGTTCTTGGAAAGGTTGCA | ACCACCCTGCTGGTTCTTGGAAAGGTTGCAGTCTAACTGTACTGGGTCGACTTGGAAAAAG": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                369
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_195M_76M_177M_244M_0M_33",
+                "M_114M_39M_43M_195M_76M_177"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGATAGTAGCCAGCGCCAGGAATGAGTCCTAATTCCTAGATGCAGGAAGGCCACTGGTGAT | CAGGAAGGCCACTGGTGATATTAGTGTCACACACGCCGAGCACTGGTTGCTATTCACCCCA": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                371
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_149M_225M_76M_78M_55M_222M_2M_30",
+                "M_167M_77M_149M_135M_6M_224M_149M_225M_76"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCTTCTACATTAATGAGTTCAGATAAAGAGTGGCTTTGAGGGATGTTAGATCGAGAATGAT | GAGTGGCTTTGAGGGATGTTAGATCGAGAATGATACACGAAATGATGTCGGGCAGTGGCAT": {
+            "same_readset": false,
+            "overlaps": [
+                35
+            ],
+            "components": [
+                0,
+                374
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_158M_197M_102M_108M_86M_93",
+                "M_229M_129M_135M_104M_179M_158M_197M_102"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGGATCGGTTATGTCGTGTAATCGCCCGCGCGTTCCCCGTGTTAAGATAGTGATAAGTGAT | GCGTTCCCCGTGTTAAGATAGTGATAAGTAATAACGTCCTGCATACCGTACGTTCTAGCCC": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                380
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_138M_248M_69M_255M_127M_221M_246",
+                "M_13M_58M_112M_35M_251M_138M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCAAATGGATCGGTTATGTCGTGTAACCGCCGGCGCGTTCCCCGTGTTAAGATAGTGATAA | GCGTTCCCCGTGTTAAGATAGTGATAAGTAATAACGTCCTGCATACCGTACGTTCTAGCCC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                380
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_138M_248M_69M_255M_127M_221M_246",
+                "M_13M_58M_112M_67M_251M_138M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATGGATCGGTTATGTCGTGTAACCGCCCTCGCGTTCCCCGTGTTAAGATAGTGATAAGTGA | GCGTTCCCCGTGTTAAGATAGTGATAAGTAATAACGTCCTGCATACCGTACGTTCTAGCCC": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                380
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_138M_248M_69M_255M_127M_221M_246",
+                "M_13M_58M_112M_35M_251M_138M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGGATCGGTTATGTCCTGTAACCGCCCGCGCGTTCCCCGTGTTAAGATAGTGATAAGTGAT | GCGTTCCCCGTGTTAAGATAGTGATAAGTAATAACGTCCTGCATACCGTACGTTCTAGCCC": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                380
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_138M_248M_69M_255M_127M_221M_246",
+                "M_13M_58M_112M_35M_251M_138M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCGTTTGGCGCGGGCCCTCTGTCCTCAAAATCAATAATACGGAGGCCTATAGTCAGTATAA | TCAATAATACGGAGGCCTATAGTCAGTATAAGATCAATGGAGCTCCAGCTAGACCGCCTCT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                381
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_211M_188M_155M_43M_152M_209",
+                "M_242M_234M_147M_47M_211M_188M_155"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCTCTCTCGTCAAAATCAATAATACGGAGGCCTATAGTCAGTATAAGATCAATGGAGCTC | TCAATAATACGGAGGCCTATAGTCAGTATAAGATCAATGGAGCTCCAGCTAGACCGCCTCT": {
+            "same_readset": false,
+            "overlaps": [
+                46
+            ],
+            "components": [
+                0,
+                381
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_211M_188M_155M_43M_152M_209",
+                "M_250M_47M_211M_188M_155"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGACGACACGGATAAGTTAACAACCATGTGCAAATATGCAGTCTTGTTCTTAGCAGAGCGG | CAGTCTTGTTCTTAGCAGAGCGGTTTCATTACACTTAAGCCGCTCTTAGTCAAGTATCGTT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                100,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_244M_246M_12M_129M_111M_4M_160M_143M_69",
+                "M_68M_42M_23M_202M_241M_244M_246M_12"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGCAGCCCAGATCAATGTGAGCAGAACATAAAAGCAACTCGCAGAAAGAAGGTATTGGAG | AGAACATAAAAGCAACTCGCAGAAAGAAGGTATTGGAGTCGTTCTCGACACATTAATGAAC": {
+            "same_readset": false,
+            "overlaps": [
+                39
+            ],
+            "components": [
+                0,
+                383
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_66M_177M_71M_118M_68M_129M_122",
+                "M_100M_104M_66M_177M_71"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCACATCGTACGACTTTTTGGCTTTATTAACTTAGACGGGGGCAGTTGGGTCGACCCCGGA | TTATTAACTTAGACGGGGGCAGTTGGGTCAACCCCGGAAAAGGATAGTGCAACCTTGAACG": {
+            "same_readset": false,
+            "overlaps": [
+                39
+            ],
+            "components": [
+                434,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_89M_238M_193M_49M_248",
+                "M_44M_16M_212M_89M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAGCATCTGGTACTGGCGGTTTTCTAAACATTTGCTTTCTATGGGCGGCCTTGTGCAGAAG | GCTTTCTATGGGCGGCCTTGTGCATAAGACATGCGTGCGCATGATTGTACAACCCTGGACG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                123,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_84M_133M_186M_119M_113M_75M_195",
+                "M_76M_0M_223M_139M_84M_133M_186"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGGATCTCATTGTGTCAGACTAGTGGGGTTTGGTGTAACACGCGAACTTGAGTATCGCGCT | CACGCGAACTTGAGTATCGCGCTTCTGAGCTTATTGGCCCAATGTAAACATCAGTCCCACT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                412,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_57M_135M_218M_229M_31M_112M_44M_24",
+                "M_42M_132M_55M_159M_148M_112M_57M_135M_218"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AACCGGGTGTCGTACACCGAACAGCTTTCGTGGAATAAGATGCTACTAACCTGCGCAGACT | TTTCGTGGAATAAGATGCTACTAACCTGCGCAGACTACGCTGCAGTGGCGGGCCTTGAGAA": {
+            "same_readset": false,
+            "overlaps": [
+                37
+            ],
+            "components": [
+                623,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_224M_154M_127M_183M_194",
+                "M_172M_46M_115M_224M_154M_127"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGGATCTCATTGTGTCAGACTAGTGGGGTTTGGTGTAACACGCGAACTTGAGTATCGCGCT | CGCGAACTTGAGTATCGCGCTTACGAGCTTATTGGCCCAATGTAAACATCAGTCCCACTCC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                412,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_57M_135M_218M_31M_31M_112M_44M_24",
+                "M_42M_132M_55M_159M_148M_112M_57M_135M_218"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAAAAGATATTAGTTGGAATACCCAAGACCAATCACTTATCGGTTTTGCCAAAAGTTCGG | ATCACTTATCGGTTTTGCCAAAAGTTTGGCGGCAAAGCTATATCTTGTGAATATGCCCAGA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                392
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_111M_145M_213M_148M_245M_43",
+                "M_231M_78M_221M_28M_111M_145M_213"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTACTCACCTGAAGAAACCTAGATTCAAGACCGACTTTTCTGGGGGATGAATAGTGAGTG | GACTTTTCTGGGGGATGAATAGTGAGTGAATCCGAGTCTACGACCAGCTTATCGCTGCTGA": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                351,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_223M_122M_248M_103M_244M_31M_183",
+                "M_199M_204M_191M_200M_152M_223M_122M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCGACCGTGTGCTTTGCTTTTAACGCGTTAGAGTTTATCCGACGGTTTCGTCAACTTGAC | TGTGCTTTGCTTTTAACGCGTTAGAGTTTATCCGACAGTTTCGACAACTTGACTCCTATTT": {
+            "same_readset": false,
+            "overlaps": [
+                54
+            ],
+            "components": [
+                0,
+                401
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_186M_174M_125M_68M_68M_10",
+                "M_92M_186M_174M_125"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGACGCGGTCATCGTCCCAACCTCCCAGGCCATAAGCGTTGAGGTAAAAAGGGGCGTTCTG | GTTGAGGTAAAAAGGGGCGTTCTGCTAGCAATCGGTATGGCGAGGCACACCCTTTTTCTTT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                0,
+                402
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_33M_89M_246M_91M_134M_130M_220M_171M_123",
+                "M_121M_101M_24M_124M_225M_33M_89M_246"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCCGTCCATCTGTGTCTCTTGACGTTCCTCCTTGCCATATACACCCTGGTTCCAGAAAAT | ACGTTCCTCCTTGCCATATACACCCTGGTTCCAGAAAATGCACATGAGTTAGTTCGCGGTC": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                342,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_243M_98M_195M_215M_135M_41",
+                "M_74M_3M_142M_243M_98M_195"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTCGAACGGTTCCCCGACATAAACTCCCTCTGCGCTGATATCAGGGCCCCCTTCAGGACC | TCTGCGCTGATATCAGGGCCCCCTTCAGGACCACCGGACTAACACTGAGGTCTTTTGGTGA": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                407
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_183M_131M_149M_172M_25M_8M_148",
+                "M_57M_189M_68M_139M_141M_183M_131M_149"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTAGTGGACGCTGGCACCTTGCGTGACCCGCAGCTGCACTTTGACTTGTATGCCAGAAGCA | GACCCGCAGCTGCACTTTGACTTGTATGCCAAAAGCACTCTACCCCCATCCTGAATGGCGT": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                0,
+                408
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_111M_75M_213M_156M_233",
+                "M_235M_121M_204M_111M_75M_213"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATATAGGGATATTATAACCTACTCGCTACGTTCATGCCGACATCGATCTGTGACATGAC | TATATCCTACTCGCTACGTTCATGCCGACATCGATCCGTGACATGACTACAGTGGGCTATA": {
+            "same_readset": false,
+            "overlaps": [
+                48
+            ],
+            "components": [
+                216,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_81M_68M_19M_60M_188",
+                "M_188M_158M_155M_81M_68M_19"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTTGTCCTTACCCAGCCGTGCCCAAGGTATGTAACAATCGATCGGCAGATGCGGTGATA | GATCGCCAGATGCGGTGATAGAGGGGCGTCCCTTGCAACCTGTAGTCTGGTGTTGCAAGAC": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                346,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_97M_104M_41M_174M_133M_141M_34M_235M_76M_34",
+                "M_27M_170M_100M_236M_82M_58M_134M_97M_104M_41"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTAACTTAATTATCTGACTGTGAGTTCGCGGCAGATCGCCAAGATCTGGTGGTCTTGAAC | GACTGTGAGTTCGCGGCAGATCGCCAAGATCTGGTGGTCTTGAACGTAAGTTTGAGTTAGG": {
+            "same_readset": false,
+            "overlaps": [
+                46
+            ],
+            "components": [
+                735,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_135M_104M_197M_85M_135",
+                "M_212M_125M_135M_104M_197"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCCCCTCGTACGGTTACGATCACGTCGGGATACGCATAGTGTCAAGTTATCGGCCCAGTA | GATCCGCATAGTGTCAAGTTATCGGCACAGTAGGATTGATGGATTTAAGGCACGACTACTA": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                414
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_113M_117M_125M_215M_56M_219M_83M_220M_154",
+                "M_131M_206M_59M_61M_230M_113M_117M_125"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCCGTAGTCACAGACACGGGCCTTGCTGAACGTGTTGCCGCATCCTCTGCTGGGATTCTA | CCTCTGCTGGGATTCTACGAGACAAATAGGGTGGTTCCCATAGCGTTGCTATGAGGATTAG": {
+            "same_readset": false,
+            "overlaps": [
+                18
+            ],
+            "components": [
+                0,
+                415
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_209M_227M_200M_70M_180M_189M_98M_78",
+                "M_74M_17M_162M_216M_201M_113M_209M_227M_200"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCGCATTCGGCCTGAGTTCGTAGGGTCGAAATAGGTCACCAGCCATCATCATCCACAGGA | ACCAGCCATCATCATCCACAGGATGAATCCTAGCAGGCTATCTCGACTTTTCCACTTTCTG": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                417
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_100M_101M_38M_122M_203M_223M_111",
+                "M_113M_135M_45M_180M_100M_101M_38"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTCTCCCGATCATCGGATCTTGATTTATCCTAGCAGTTCAGTTAATTGGTCGTTGAAGCTA | CAGTTAATTGGTCGTTGAAGCTAAGCCGGCTAAGCACAAATTGCACGAGAGCCCCAGTATC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                420
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_217M_166M_198M_4M_215M_128M_99",
+                "M_240M_101M_13M_83M_217M_217M_166M_198"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATCAGTCTGGCTGAGGCCTTGGCGAAACCGAGTCTTGTCCTTACCCAGACGTGCCCAAGGT | TCCTTACCCAGACGTGCCCAAGGTATGTAACAATCGGTCGCCAGATGCGGTGATAGAGGGG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                28,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_243M_15M_82M_58M_134M_104M_41M_174",
+                "M_244M_216M_120M_244M_243M_15M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGGCTGATCAGCCGTGAGAGAGTCCGGTTCTGCTCCTGCACAGGGCACTGCGTAATCGGAT | CACTGCGTAATCGGATACTATTCAGATTCATGTCACATGAGACTATTAGCCCTAGCCGCTT": {
+            "same_readset": false,
+            "overlaps": [
+                17
+            ],
+            "components": [
+                0,
+                424
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_2M_1M_42M_104M_202M_176M_78M_79",
+                "M_216M_26M_253M_90M_127M_38M_2M_1M_42"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGGAAGTTTGGTTATGCGATCTTCTACTGATTCTGCTAGAACGCGACCATTCCCGTACTAT | TTCTGCTAGAACGCGACCATTCCCGTATTATATGTGAGTCGGTCTATGTAGCAGCTAGATC": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                275,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_91M_39M_187M_58M_9M_43",
+                "M_196M_148M_114M_210M_91M_39M_187"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CACCAGGTCCCTTGCTAACAAAAAGAGCGATTATGGCACTCATCGCTATAGCGTATGATAG | CACTCAGCGCTATAGCGTATGATAGCTTTTGCGCAGGCATCGACAAACCTGCAGTGGCTTA": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                25,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_14M_188M_72M_153M_48M_220M_68M_127M_31",
+                "M_8M_25M_33M_92M_14M_188M_72"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTTGTAAGTATGCGGAATAGTATAAGAGACTGGATGGTCGTTCGAACAAGTTTAGGCTTG | GGTCGTTCGAACAAGTTTAGGCTTGTATAACTAACCCATTGATGGCCGCCCGCGAGTCCGC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                431
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_118M_57M_163M_155M_25M_219M_35",
+                "M_75M_72M_193M_155M_0M_118M_57M_163"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGACTTACTTTTGTGGCCCTCGCAAGATATGCACGCAGCACGTCTGGATTAGGTCTCTTAC | ACGCAGCACGTCTGGATTAGGTCTCTTACCTCTTATGCAACCTCTCCTCAATGCCAGTCCG": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                683,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_128M_78M_3M_124M_34M_209M_213",
+                "M_212M_147M_128M_128M_78M_3"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGTGTTGTCATGTGCGACGGAGATCGCCCGCAAGAGAAGCGGCGGTACCCCAGTCGTGT | CGGCGGTACCCCAGTCGTGTCCAAAGGCCTTCATCCAACATCACGCGTTCGCTCAGTTCTT": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                0,
+                438
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_41M_233M_118M_237M_101M_44M_217",
+                "M_201M_202M_249M_35M_41M_233M_118"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAAGCTTACACTTTCAAGGCTCCGTCATTGTATGTTTGTCACACCCATGCCGATCTATCCC | TTGTCACACCCATGCCGATCTATCCCCGCATGGAATGCATTCTGTGAGCACTGAAGGACCG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                335,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_27M_169M_9M_113M_39M_2M_49",
+                "M_31M_111M_82M_226M_75M_27M_169M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCACCGGAAGAATCCTGGATTCAAGACCGACTTTTCTGGGGGATGAATAGTGAGTGAATCC | GGGGATGAATAGTGAGTGAATCCGATTCTACGACCAGCTTATCGCTGCTGAATTTTTATGG": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                169,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_122M_248M_103M_137M_31M_183M_16",
+                "M_172M_191M_190M_152M_223M_122M_248M_103"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTCGCCGGCAGCGCCATGGAGCAACCCGTCAGCCGAGGCTCTCTACATTTGACCCTTGAT | CAGCCGAGGCTCTCTACATTTGACCCTTGATTCTTTCGGAATTCGTTCCCCCGACTATGAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                679,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_100M_160M_60M_200M_193M_122",
+                "M_67M_251M_100M_160M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCGCGGCGCGATACGGGGTGGTCGCGTACTCGAATCGTGAATGAGTTTACAAGGAGTCTG | TCGTGAATGAGTTTACAAGGAGTCTGGGGGGTAAACGATGATACCATGACGTTAAGCTGAT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                153,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_135M_82M_244M_139M_168M_88M_138M_210",
+                "M_234M_108M_103M_135M_82M_244"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TACTGCATCAAGCAAGAAGTAACGGTCTATGACCCGTGTCTTTGTATCTCAATGCTAGTAG | GACCCGTGTCTTTGTATCTCAATGCTAGTAGGATGCCTAAACTTCTTTTATTTTTACACTT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                458
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_75M_165M_56M_182M_229M_10M_184",
+                "M_191M_9M_251M_75M_165"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCCGCGCATTTAACATCATTGCGTCCAAGTATGCGTTGATAGACGACTAGGTCGCCGTTAC | TTGATAGACGACTAGGTCGCCGTTACGTGCATGTTTTGCTTACTCGCGTAAGATTCAGGTT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                460
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_168M_159M_67M_64M_31M_1M_200M_252",
+                "M_87M_83M_44M_48M_69M_168M_159M_67"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCACCGGAAGAATCCTGGATTCAAGACCGACTTTTCTGGGGGATGAATAGTGAGTGAATCC | GGGGGATGAATAGTGAGTGAATCCGATTCGACGACCAGCTTATCGCTGCTGAATTCTTATG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                169,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_122M_248M_103M_137M_31M_183M_123",
+                "M_172M_191M_190M_152M_223M_122M_248M_103"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCTGAAATTGATTAACACCTTGTGACCAACCGTGACTAATTTCAGACCATATTATACCCTA | CTAATTTCAGACCATATTATACCGTTCCACCTGGATGTAGCTTTTTGCCTTATCGCTCGCG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                461
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_6M_98M_232M_204M_86M_16M_125",
+                "M_214M_204M_28M_6M_98M_232"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CATGTATAATGATGGCGTGTAGCGGCCTACTTAACGTGCGGTAATATACGTAAGCATTAGG | CGTGCGGTAATATACGTAAGCATTAGGTACGACGTCAACTCAGCTGAGACCGATCGTGAAT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                463
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_32M_232M_129M_142M_14M_216M_152",
+                "M_202M_5M_21M_81M_32M_232M_129"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGCGAGTCTAGCGGCTAACAAGCCGTATTTTCGGGTGGGAGGCACGAGGCTCAAGCCATG | GGTGGGAGGCACGAGGCTCAAGCCATGTGAAGGAGAGGCTGAACCGAAAGATCAACTATTT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                375,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_36M_128M_4M_198M_253M_216M_115M_197M_10",
+                "M_244M_25M_4M_10M_144M_36M_128M_4"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCATAGCAACGGCTATTGTTAGATCAACCACCCTGAGGCAATGGCTACTATGCCGACCCT | CCCTGAGGCAATGGCTACTATGCCGACCCTTCGCGTTATTCTGCCCCGATCGCATAGCGTC": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                235,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_195M_220M_154M_164M_107M_97M_21",
+                "M_169M_136M_197M_195M_220M_154"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGAAAGCCATCACCGCCGGCACAATCCTATTGGACAAAGTGTCACCTTTCGTCAGCCCCG | AGTGTCACCTTTCGTCAGCCCCGTTAACTGGCCCGGCTGAACGCGTGGCCCCAACTACATC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                469
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_117M_204M_26M_251M_0M_216M_131M_60",
+                "M_214M_178M_215M_254M_117M_204M_26"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCGCAGGAAGCGGATTGTCCATATCTCTGTTCCCATAGCTGGAGTCGAACGTCGACGCCAT | GCTGGAGTCGAACGTCGACGCCATCATAGCATTTGGAGCGCGCAAAGGTCGACGGAACTGA": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                398,
+                471
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_227M_57M_121M_148M_241M_193",
+                "M_203M_208M_27M_3M_169M_227M_57M_121"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAAAATTTGCTGAGACACAAATGGTTTAATCGGAACAGACGGTCCCATTTAGGGATGATCG | CGGTCCCATTTAGGGGTGATCGTGATATACAACAACCCGAGTTTCGAGGGTCCTCTTGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                747,
+                476
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_24M_83M_97M_168M_23M_105M_209M_214",
+                "M_216M_110M_66M_24M_83M_97"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCACCAGACGGGTCCACCCCTGCCTATTCCACGCACCGAGTCGTGCTGTACTACCGTCCT | GTCGTGCTGTACTACCGTCCTATTGAACAGGGTAGTAGTAAAACTTAGACGGGAAGGAGAA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                477
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_118M_52M_185M_66M_235M_54M_212M_230M_249",
+                "M_15M_237M_195M_140M_118M_52M_185"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCCCATTTAGGGGTGATCGTGATATACGACAACCCGAGTTTCGAGGGTCCGCTTGAAAAC | CAACCCGAGTTTCGAGGGTCCGCTTGAAAACGCTGCGGCCCGTCAACTCTACCCTGTACGC": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                482
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_105M_163M_205M_32M_251M_156M_195",
+                "M_24M_83M_97M_168M_68M_105M_163M_205"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCATTTAGGGATGATCGTGATATACAACAACCCGAGTTGCGAGGGTCCGCTTGAAAACGCT | CAACCCGAGTTTCGAGGGTCCGCTTGAAAACGCTGCGGCCCGTCAACTCTACCCTGTACGC": {
+            "same_readset": false,
+            "overlaps": [
+                35
+            ],
+            "components": [
+                0,
+                482
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_105M_163M_205M_32M_251M_156M_195",
+                "M_83M_97M_168M_23M_238M_105M_163M_205"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTATATGACCCGTGTCTTTGTATCTCAATGCTAGTAGGTTGCCTAAACTTCTTTTATTTT | GGTTGCCTAAACTTCTTTTATTTTTACACTTCCGATTGTCGCATGAAACTACCATATACAC": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                0,
+                484
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_182M_229M_10M_184M_137M_113M_95M_98",
+                "M_130M_251M_75M_165M_56M_182M_229M_10"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAAAAGCCACAACCTCCCCATACCCCGCCGCCCCTGATATCAACATTAATTACGAATTGGT | ATCAACATTAATTACGAATTGGTCGGTCAACCTTCGGGCTCAGCGCCGTAGGAATCCGTAG": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                448,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_129M_94M_166M_164M_26M_74M_103M_45",
+                "M_4M_23M_247M_221M_67M_195M_129M_94M_166"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTATCGTATACCTATAAGCAGATCTTACGGGGATAGGAATAATGAGCAATCCTAAAGTGC | TAGGAATAATGAGCAATCCTAAAGTGCAGGGTACCTCCACTGTAACACCCTCTTGTCATCC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                322,
+                0
+            ],
+            "edge_weight": 691657,
+            "encodings": [
+                "M_5M_134M_182M_203M_124M_2M_250M_27",
+                "M_125M_232M_188M_104M_170M_167M_5M_134M_182"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TACTTAGTAGTGCCACACCATACGAACCACGAACCGTGGATGCAACATGCTTGAAAACAAG | TGCAACATGCTTGAAAACAAGACCTGGGGTATCGCAATTCTCCTAATCTGTCATCGAACCA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                490
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_34M_165M_214M_190M_130M_240M_6M_55M_57",
+                "M_212M_235M_239M_98M_57M_109M_175M_34M_165M_214"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTTGAGTGGCCGGCCTAGCCGCAGCCAACTATGGTACCACTGCGCCACATATGATCCCAT | ACCACTGCGCCACATATGATCCCATCCATTAGCCATCGGATCGACCACGTCCGGAACAATC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                491
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_2M_239M_169M_129M_116M_97M_140M_193M_134",
+                "M_135M_40M_77M_100M_2M_239M_169"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGATTATCCGGAGGTTGACCGCCCACTGACGCCACACACCCAAAGTTTGTTCCCATTTACG | ACCACTGCGCCACATATGATCCCATCCATTAGCCATCGGATCGACCACGTCCGGAACAATC": {
+            "same_readset": false,
+            "overlaps": [
+                0
+            ],
+            "components": [
+                0,
+                491
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_2M_239M_169M_129M_116M_97M_140M_193M_134",
+                "M_125M_252M_152M_2M_239M_169"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAGTTTAAGGGAACCTGGAGCGGCGTACCCTTGTGGGATAAGGTCTTAATTTGTAATGAGG | CCTTGTGGGATAAGGTCTTAATTTGTAATGAGGGTTGTCGTTAGAGTGACCGGATTACTTA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                174,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_167M_8M_75M_105M_46M_174M_152M_94",
+                "M_138M_190M_167M_8M_75"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CATCCTCCACAGGATGAATCCTAGCAGGCTATCTCGACTTTTTCACTTTCTGTAAAAATTC | CAGGCTATCTCGACTTTTTCACTTTCTGTAAAAATTCCGTACCTAGGCTAACAATCTATTG": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                544,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_16M_111M_112M_150M_25M_9",
+                "M_38M_122M_203M_16M_111M_112"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAGTTCGTAATCTGGAGGACCGGTCTTGCAAGCTCCCAACAGTGGGAGGTTAGTGAATTTC | GGCTCCCAACAGTGGGAGGTTAGTGAATTTCACTAAACGCTTTCGGTGTACAGAGAGTCTG": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                583,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_247M_36M_248M_30M_139M_12M_244",
+                "M_217M_1M_80M_34M_247M_36M_248"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGCGCCTTCTCTAGGTTTTTGTGCTGCGATGCAGTCGGGCGATTATAGACTCCGGGCCTGT | TCGGGCGATTATTGACTCCGGGCCTGTGGGACTTGATATCCGTCGCCAACAACTGCGTGCT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                352,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_144M_137M_226M_168M_23",
+                "M_234M_229M_252M_186M_29M_144M_137M_226"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGTCAAGAGAAACGGCTTGGAGCTGGTCCTCGAATGGAAAAGTTTATCTCAAGAGTACGGA | TGGAGCTGGTCCTCAAATGGAAAAGTTTATCTCAAGAGTACGGATCCGGCGTAAGAGTAAT": {
+            "same_readset": false,
+            "overlaps": [
+                45
+            ],
+            "components": [
+                0,
+                499
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_227M_125M_179M_42M_1M_54",
+                "M_55M_18M_227M_125M_179"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCTGCGTTAGTGGGTGTGGCAGTTAAGGGGGGCTTACTTAGGAAAGCCCCACGCTCTTTTA | TTACCTAGGAAAGCCCCACGCTCTTTTACTCTAGCGACGGATTCGAAAAGCAACGACCAAG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                720,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_177M_233M_160M_63M_21M_42M_136M_28",
+                "M_248M_217M_89M_63M_177M_233M_160"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAGTCGTGCAACGAACTAGCTCGCAATGGAAATGTAGCATCCGGTTCAGAGCAGGTCCGG | GTAGCATCCGGTTCAGAGCAGGTCCGGTGTTAGATCCTCCTATAGGAATACAAGACCCTGG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                635,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_90M_12M_8M_201M_197M_188M_195",
+                "M_143M_34M_57M_153M_90M_12M_8"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATCTTGGTCTAGATGCCTCTGGTACGTATACAATGATTCGGGTGACATAACGTCGTCTGTG | TGATTCGGGTGACATAACGTCGTCAGTGACCACCATCTGACCATCACGACGCTAGCAATCG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                58,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_200M_19M_118M_11M_181M_91M_134",
+                "M_166M_224M_209M_85M_200M_19M_118"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAAGATTGATCCAATTTCAGGTAAGATATATAGTGTGTGAGATCCCCTGCGTAGGCTACCT | GAGATCCCCTGCGTAGACTACCTCAGCCCGTTCGCTAATCCGTCACTCCAAGCAGTGTTAT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                0,
+                514
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_197M_195M_45M_124M_62M_6M_117",
+                "M_173M_197M_195M_45"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGGGACTTAGTTGTCGTGCAATCTCGTGTATAATGGTCAGACACAACGTAGCGTCCTAGCG | GACACAACTTAGCGTCCTAGCGAACACACGGTTTAGGGGACAGCATTAGTTATAACAATTT": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                522
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_23M_21M_21M_222M_254M_129M_155",
+                "M_212M_20M_34M_155M_23M_21M_21"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTAATAACGTAGTCCAGCCAGCACAGATACTTGAGCAACCTTCACACGAGGGGGTGGACT | GCACAGATACTTGAGCAACCTTCACACGAGGGGATGGACTTGACCCGAAACAGCTGGGGGG": {
+            "same_readset": false,
+            "overlaps": [
+                41
+            ],
+            "components": [
+                0,
+                525
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_215M_108M_30M_219M_115M_227",
+                "M_53M_85M_237M_215M_108M_30"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCCGGTCATTGGATCCGGAACGGGTAAGGGCGGCGGTATAGGCCGTCGACGACCTGCGTA | GCGGCGGTATAGGCCGTCGACGACCTGCGTAAGAACTTTTCAGAGAGTCGTAGTTCTGAAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                717,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_41M_74M_127M_191M_223M_253M_45M_214",
+                "M_226M_13M_193M_133M_41M_74M_127"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAGCGGGTGCTATAAGAGCATCGCGCCAACTTGATCCGCTTGATCTCACCTCCCCCCTGA | CCAACTTGATCCGCTTGATCTCACCTCCCCCCTGATCCGCCCGGGACTGTTGTGTATGATA": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                0,
+                526
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_163M_204M_195M_35M_106M_72",
+                "M_21M_188M_99M_218M_163M_204M_195"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGGGATAGCAGTTAAGATAGCCTCGTAATGCATTACGCCTCGCGCCGGCAAGTGATCCGG | CCTCGTAATGCATTACGCCTCGCGCCGGCAAGTCATACGGTTTACTAAATATAATAGTGGT": {
+            "same_readset": false,
+            "overlaps": [
+                41
+            ],
+            "components": [
+                0,
+                528
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_1M_129M_67M_17M_206M_63M_180M_248",
+                "M_158M_217M_77M_1M_129M_67"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACAACGTGCCACTGGATGGACCCCCATGTTGCGTCGCTTGTCCTGACAAAACCATCCCAT | TGTCCTGACAAAACCATCCCATGCGGGTCCACCTCAATCTAAGACTGAAAGTGCGGTACGA": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                617,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_11M_205M_169M_194M_204M_134M_214M_32",
+                "M_23M_236M_0M_233M_48M_163M_11M_205M_169"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTGTTGGACTTGATATCCGTCGCCAACAACTGCGTGCTATACACCGATTTTGCCAACGGAG | GTGCTATACACCGATTTTGCCAACGGAGCATAGTCTCGTGGGAATGTTGGGGTATGTTTCG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                636,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_188M_137M_213M_143M_130",
+                "M_106M_168M_23M_188M_137M_213"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCCCTTTTTCGGTATTTCAGCCAAAATATCTCAGCTTGTGACATAATCATGTGACAACTT | GTGACATAATCATGTGACAACTTATAATACGCTAAATCATGCAGGAGCACCAACGCTTCAT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                391,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_19M_110M_19M_212M_211M_182M_203M_28",
+                "M_24M_16M_130M_26M_47M_26M_19M_110M_19"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGTCAACTGTGTGCCGACCTTAGGAGTCCGCACACGTTACTCGATGTGATCCGCCAACCT | AGGAGTCCGCACACGTTACTCGATGGGATCCGCCCACCTCCTTATTAAGATATTAGATCGC": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                0,
+                540
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_215M_63M_29M_13M_35M_124M_138M_78M_218",
+                "M_186M_161M_215M_63M_29"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAACCACTGACCCGACTAGACGGCGTGTTTACCTGTCTTGGTCGCGTCCGCGCATTATGAA | CCTGTCTTGGTCGCGTCCGCGCATTATGCAAGACCGGTCGTCGCGAAGTTACTGGAATGCC": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                543
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_166M_87M_129M_34M_152M_118M_63",
+                "M_2M_159M_18M_201M_166M_87M_129"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GAGCCAATCAACTCACCGAGAAAATCGAATTGTTCCTCGCGGGGTGCAACGTGACCGTTCG | CTCGCGGGGTGCAACGTGACCGTTCGGAGCTTCGGTAATATTCCACGGCCACTGCCGTCAT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                552
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_194M_34M_152M_164M_53M_140M_239M_74",
+                "M_134M_14M_70M_194M_34M_152"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTATTTTCACGTCGAATACGGTACAAGAACCATCGTAACCGTAAACCGAAATGGGTTTGT | CATCGTAACCGTAAACCGAAATGGGTTTGTGGAGGGGTGAGTATCGCGACCACGTAAAATT": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                368,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_116M_175M_120M_135M_218M_140",
+                "M_10M_181M_211M_191M_116M_175M_120"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAAAAAACGCATCAAGATATCAATGTTCAGCCTAGGCAGTAATAACCGAAGTGCGTTAGCA | AGCCTAGGCAGTAATAACCGAATTGAGTTAGCAAGATGTCTCATATCGGGATCCTCTCCGA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                559
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_220M_53M_115M_135M_224M_132M_145M_209",
+                "M_33M_113M_26M_220M_53M_115"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTCACAATCATAGAGAGCTCAGTAAGAAACAACACCGCGGGCCGGACCGCCGTCGAGCGAT | GGCCGGACCGCCGTCGAGCGAATAGCGTAGCTAGGAGGGGGCAGCTGTTGCAGAGCGCAAA": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                713,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_40M_178M_92M_21M_153M_89M_52M_12M_241",
+                "M_30M_174M_54M_23M_178M_40M_178M_92"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTTCAGGTGCCGCGTAGTTCTTTAGCAGCTCAGCTTTGTGATCAGCCCCCTGCGTAAGAA | GCTTTGTGATCAGCCCCCTGCGTAAGAAATTCTTTCAATGATCCGCATATAGTCCGAATAA": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                682,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_26M_195M_1M_123M_113M_143",
+                "M_236M_45M_123M_26M_26M_195M_1"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCAAGTGCCGCGTAGTTCTTTACTAGCTCAGCTTTGTGATCAGCCCCCTGCGTAAGAAATT | GCTTTGTGATCAGCCCCCTGCGTAAGAAATTCTTTCAATGATCCGCATATAGTCCGAATAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                541,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_26M_195M_1M_123M_113M_143",
+                "M_236M_45M_123M_154M_26M_26M_195M_1"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCAAGACGAGCTCGGAAGGGTGATCACGAAGGTTAACGCAGGTATATTCACATTGTCTTTT | TTAACGCAGGTATATTCACCTTGTCTTTTTAACGGGCGTAGCACCTACGATGAATCATATT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                568
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_203M_30M_27M_16M_133M_204M_59M_103",
+                "M_15M_157M_105M_181M_71M_203M_30M_27"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTAAATCTGCGTCAAATCATGAATGGCTGTCCTCAGCGTGCCATTCCTGACGGGTCTGTG | TGTCCTCAGCGTGCCATTCCTGACGGCTCTGTTCAGGACCATTGGCGCACCGGTCGATATA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                571
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_26M_236M_11M_160M_149M_234M_172",
+                "M_231M_88M_52M_26M_236M_11"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTGACATAATGGCAACGTCCTTAGTAGCGTCGTAATCGAGTTATGAAGGAACAATCGCA | ATCGAGTTATGAAGGAACAATCGCACGGGAGCCCGGTTAACTAGAGCACGGGGACGTTGTT": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                710,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_122M_66M_218M_230M_62M_159M_128M_142",
+                "M_11M_5M_136M_243M_21M_1M_122M_66M_218"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGCATCGTATTGGCATAAATCGCACCAGCGACATCGTTACGTGGCTCGTTCCAAATTCAAA | GTATTGGCATAAATCGCACCAGCGACATCGTTACGTGGCTCGTTCCAAGTTCAGAGTACAC": {
+            "same_readset": false,
+            "overlaps": [
+                56
+            ],
+            "components": [
+                0,
+                578
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_218M_92M_116M_12",
+                "M_113M_218M_92M_116"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCTAAGGGATATCTGGCTAGTCTGCCGGTCTTAGGAACCTTAGTTAGGATTTGATCACAT | CTGCCGGTCTTAGGAACCTTAGTTAGGATTTGATCACAAGCGAGATACCTGGATGACCATC": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                639,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_107M_161M_161M_92M_108",
+                "M_158M_91M_107M_161M_161"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCTCCCTCTGCAGATCACTTTGCGCAATAGGCTGTCACTAGTTTCTGTAAGCCCTCTATT | AGTTTCTGTAAGCCCTCTATTCGGCCTGTCAGGGACACTTATGTGGCTGCGCCGAACTCCC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                0,
+                580
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_84M_4M_9M_55M_254M_58M_67M_247",
+                "M_247M_104M_111M_52M_159M_84M_4M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATTAGGAGAGCTTTGTGTCAACATATCGTGGGGTCGGGATATTGAATCATGGGCTACCACG | GGGTCGGGATATTGAATCATGGGCTACCACGATACATCAGACCGTAATTCAGTTATACACA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                664,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_144M_103M_140M_228M_152M_217",
+                "M_78M_253M_55M_207M_144M_103M_140"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTGCCTGGCTAGTATTGCATTTAGAGGCTACACTTGTAACGTGTATAAATACGACATGAT | TAACGTGTATAAATACGACATGATAGGGAGTTCCAAACCTGTACTTATGCCGTCCATCTGG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                655,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_155M_211M_176M_158M_37M_212M_74",
+                "M_107M_91M_83M_60M_75M_155M_211M_176"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTATGCTTATCCGCATTACACTGTGTTGTACGATACGTGGATCGCAGGCATCTTCAAGAC | TGGATCGCAGGCATCTTCAAGAGTGGTGACACGACACTGCACAGCCACAGGTTGCGTGTGC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                457,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_13M_203M_114M_179M_19M_68M_215M_239M_252M_186",
+                "M_165M_113M_184M_201M_59M_13M_203M_114"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCGACGGATGTTGATCGTTCAACAAACCGCTAGATGAAATCGCGCGCTATGGGAGTACGGA | GAAATCGCGCGCTATGGGAGTACGGATTCTTCCCACGTAGCCAAGTAACGTGTCATAACGG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                595
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_218M_36M_206M_123M_140M_77M_69M_55",
+                "M_42M_97M_37M_91M_122M_218M_36M_206"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GATGTTGACCGTTCAACAAACCGATAGATGAAATCGCGCGCTATGGGAGTACGGATTGTTC | GAAATCGCGCGCTATGGGAGTACGGATTCTTCCCACGTAGCCAAGTAACGTGTCATAACGG": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                595
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_218M_36M_206M_123M_140M_77M_69M_55",
+                "M_86M_152M_37M_224M_218M_36M_206"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGCAGGTCTGTCGTTTATGGAAGTTTGTTTATGCGATCTTCAACTGATTCTGCTAGAAC | GATCTTCAACTGATTCTGCTAGAACGCGACCATTCACGTACTATATGTGAGTCGGTCTATG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                596
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_114M_210M_91M_39M_85M_188M_135M_9",
+                "M_203M_46M_196M_114M_210M_91"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCGTGGCATGGCGACATGGAGGCGTGTGGTATTTGTAGGCGCCCAAATGAGGGAGCTCGCC | TTGTAGGCGCCCAAATGAGGGAGCTCGCCATAAGAATTGCAACGAGACGTCATATCCGTTT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                213,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_75M_234M_158M_98M_102M_34M_70M_7",
+                "M_64M_68M_130M_75M_234M_158"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CATCCTCCACAGGATGAATCCTAGCAGGCTATCTCGACTTTTTCACTTTCTGTAAAAATTC | TTTTTCACTTTCTGTAAAACTTCCGTACCTAGGCTAACAAACTATTGGTTGTAGCTTGGAC": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                544,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_16M_111M_112M_150M_25M_95M_166M_153",
+                "M_38M_122M_203M_16M_111M_112"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACCATAACGGAATCCGGTAGCACGAGCCGTATCCCAGGGGGGACTACCAAAACGTGACTA | GCACGAGCCGTATCCCAGGGGGGACTACCAACACGGGACTACCTGTAGCAGCCGGCGCTGA": {
+            "same_readset": false,
+            "overlaps": [
+                42
+            ],
+            "components": [
+                624,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_128M_74M_28M_230M_100M_234",
+                "M_98M_193M_90M_128M_74M_28"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTGGGTCTAGTTCCAGAGTTATTTAAGCGACCTGATCGCCATCGGTTCGGCATGCCCTGC | TGTTCGCCATCGGTTCGGCATGCCCTGCTATTCTTCCAGACTAACAACAGACCAATTTTTG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                603
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_116M_64M_195M_123M_25M_28M_16",
+                "M_0M_146M_12M_10M_92M_210M_116M_64M_195"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GATAGTTATTAGGCAGTAATACTGAGGACCATGTCCTCCCGCGGTGGACAACTGTGGCAGC | CTCCCGCGGTGGACAACTGTGGCAGCGTCTATTAGCAACTTCTTCAGTCGACACCGCAGTT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                304,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_247M_41M_254M_9M_229M_68M_217",
+                "M_78M_54M_80M_202M_247M_41M_254"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGCCCTAGCTAACATAAAGAGCGATTATGGCACTCAGCGCTATAGCGTATGATAGCTTTTG | TCGCTATAGCGTATGATAGCTTTTGCGCAGGCATCGACAAATCTGCAGTGGCTTAATCTTC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                420,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_188M_72M_153M_48M_220M_68M_31M_114",
+                "M_147M_43M_65M_92M_14M_188M_72M_153"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTTAATCTGCAAAGGGCTCCGAGATATAAAACGTCGCTGAGCCGCGCGCGAAATTGTACG | CGTCGCTGAGCCGCGCGCGAAATTGTACGCACAGCCTCATCAATCAAAAAAGGCCCGTGGA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                606
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_183M_87M_75M_215M_132M_134M_33M_62",
+                "M_212M_34M_226M_155M_183M_87M_75"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGTGACCCGCGAATAATCTGATCCTGCCCATCCTGATAAGATTCTTCAGGGTGTCATACGA | TCCTGAGAAGATTCTTCAGGGTGTCATACGATTCTGGAGGTGAGTGCAGGTGGGACCCCGG": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                608
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_200M_105M_211M_135M_203",
+                "M_87M_110M_127M_210M_200M_105M_211"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCTATGGCTCGAAACGTGGCGGGCCTCTGTATCGATTACTCCAAAAGATGCCGCAAAGAGG | ATTACTCCAAAAGATGCCGCAAAGAGGTGCCTGGAATTTTTACGTCCAAACTGAATTGGCG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                537,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_94M_47M_241M_236M_16M_237",
+                "M_9M_194M_209M_207M_94M_47M_241"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGAGATCAACTGTGCGGTCACTACGGGGAAGCGTTCATAGAATACCGATACAGAGTCACTG | GATACAGAGTCACTGCATATTCGTCTAGCTTGAGGGAAGACATTAATTCACCTAGTTATAA": {
+            "same_readset": false,
+            "overlaps": [
+                16
+            ],
+            "components": [
+                0,
+                610
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_108M_179M_2M_153M_158M_119M_30M_146M_155",
+                "M_197M_186M_206M_196M_102M_108M_179M_2"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATGCCTACCCTCGTTTATATGTCCAGATGTCGAAAAGGTTCTCTAGCGGGCTGTGCCGAAG | TCTCTAGCGGGCTGTGCCAAAGGGGACCAGGGTCAATATCATCTCATCAGCAACAGTGAGA": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                612
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_3M_194M_186M_105M_101M_101",
+                "M_81M_242M_58M_104M_71M_3M_194M_186"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCCGGCAAACGGGCTTCACGGGCCTTTCTCAGAAATGATGTTCCCGCTATACTGATGGCTC | CAGAAATGATGTTCCCGCTATACTGATGCCTCATGTGAGCATAGACGGTTACAAAGGTACC": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                616
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_86M_188M_210M_132M_15M_71",
+                "M_40M_37M_30M_171M_86M_188M_210"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCCGGCAAACGGGCTTCTTGGGCCTTTCTCAGAAATGATGTTCCCGCTATACTGATGGCTC | CAGAAATGATGTTCCCGCTATACTGATGCCTCATGTGAGCATAGACGGTTACAAAGGTACC": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                616
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_86M_188M_210M_132M_15M_71",
+                "M_40M_37M_229M_171M_86M_188M_210"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGGAAAGGTTGCAGTCTAACTGAACTGGGTCGACTTGGAATAAGCAACAACAACGATAT | TACTGGGTCGACTTGGAATAAGCAACAACAACGATATTACCCGCAGACCATCTAACACAGG": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                82,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_0M_23M_59M_94M_25M_38",
+                "M_177M_244M_0M_23M_59"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTGTTTTGGGATGATTGCGGCTTTACCTCCAGTAGTGATCGCGTGGACACACGAGAGTGG | TGATCGCGTGGACACACGAGAGTGGGGCGTTCTCTTATTGTTTTTATAAGTTCTCGCATGA": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                620
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_97M_254M_109M_89M_246M_16M_246M_113",
+                "M_20M_148M_48M_124M_235M_97M_254M_109"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCCTGCCAATAACTAGTCTTAATTACATGGGGCAGTGAAATCGCCTTACACCCGGACTGTC | GGGGCAGTGAAATCGCCTTACACCCGGACTGTCTTTCACCAGACTGATTTGCCCCGAAGTT": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                619,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_89M_214M_170M_30M_210M_131",
+                "M_195M_255M_143M_73M_89M_214M_170"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTAGTCGTATCTTTTCTTAGAGGATGTGCCCGTATTAGAGGAGAGGTAGCATTTCGGGGAG | CGTATTAGCGGAGAGGTAGCATTTCGGGGAGCCGGTCTTCGTTACCAATCGTTAGGGCCAC": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                623
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_78M_249M_144M_40M_114M_28M_225",
+                "M_235M_223M_174M_86M_62M_78M_249M_144"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGTAGTACTGAGGAGTCACTTAACCACCTTTTTTACAAACATTTTGTAACTGTAAGGTTCT | TTTACAAGCATTTTGTAACTGTAAGGTTCTAGTGAGACTTTAATTTCCCGCCTAGATGATG": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                627
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_75M_112M_189M_248M_224",
+                "M_235M_17M_204M_16M_37M_75M_112M_189"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTATATGTGAGTCGGGCTATGTAGCAGCTAGATCTACCCTGTGAAATTATCTGCACTACAT | CCTGTGAAATTATCTGCACTACATGTGGACCTTGTGATCATGACCCACAGTTAGTTTTCCG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                87,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_214M_125M_60M_88M_217M_223",
+                "M_188M_135M_58M_43M_199M_214M_125M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACAGTGTGTTATAAGGTCTCTAAGGACGCATTAAGTTAGACAAACACTGCCCGTCATGCT | CAAACTCTGCCCGTCATGCTGGCTCCTTATGTGTCTGACGAGTTGCGTACGGGACGTGCAG": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                0,
+                633
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_37M_107M_165M_243M_11M_238M_206M_142",
+                "M_117M_155M_3M_49M_113M_37M_107M_165"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAGTGTCTTATAAGGTCTCTAAGGACACATTAAGTTAGACAAACTCTGCCCGTCATGCTGG | CAAACTCTGCCCGTCATGCTGGCTCCTTATGTGTCTGACGAGTTGCGTACGGGACGTGCAG": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                0,
+                633
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_37M_107M_165M_243M_11M_238M_206M_142",
+                "M_117M_155M_3M_49M_129M_37M_107M_165"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTCGCGATGTACTTCGCGCGGACATGCTGTGTGAATCTAGTAAAAGTAGTACCCAGCAAT | GGTGTGAATCTAGTAAAAGTAGTACCCTGCAATGCAAGTCGTAATGGCCTTACCAGCGGCA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                634
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_103M_54M_69M_195M_34M_118M_170",
+                "M_29M_164M_208M_165M_103M_54M_69"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGTACATTATGAAAACCGGCTCTTAAGGTGGAAATGCGTACGATTCGTGAACACAATGAA | CGTACGATTCGTGAACACAATGAACGAAGTAAAGAATCTCAGCAGACAATCCGGCGCCGAT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                75,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_59M_66M_122M_69M_191M_26M_134M_234",
+                "M_228M_122M_172M_138M_59M_66M_122"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTCGCCGGCAGCGCCATGGAGCAACCCGTCAGCCGAGGCTCTCTACATTTGACCCTTGAT | CAGCCGAGGCTCTCTACATTTGACCCTTGATCCTTTCGGAATTCATTCCCCCGACTATGAA": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                679,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_100M_160M_60M_243M_193M_39M_122",
+                "M_67M_251M_100M_160M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTTATGAAAACACTACCCTCGCCGTGAGTTCCTTTATGCATACGGAGTTCTAACAGTCAGT | CATACGGAGTTCTAACAGTCAGTGCTTCACTTATAGTCCCACAATACATCGTTCGGCCGGG": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                357,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_211M_246M_17M_30M_173M_228M_40",
+                "M_122M_184M_250M_74M_243M_211M_246M_17"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGACCACATCTCCGCGCTATATAGGAGGCGCGTGTGAGCTTTCATCGACTGGTACAACTT | GCGTGTGAGCTTTCATCGACTGGTACAACTTAATTGATGTATACAAGGAGTAGATTTAGCG": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                0,
+                642
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_101M_0M_23M_86M_82M_22M_21",
+                "M_44M_87M_188M_234M_101M_0M_23"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGTGCAACGATTATTGAAGAACTAATATGTGTGACGATTCGCGGGTAGCGCGGCTGTGTTC | GCGGGTAGCGCGGCTGTGTTCATCTTGTAGTTTACTTCGGACGCACTCTCTCGCTAAGACA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                560,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_194M_21M_52M_101M_75M_63M_121M_156",
+                "M_186M_59M_198M_6M_59M_194M_21M_52"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGAAGTCGGTACTGTACATCTCGTAAGAGAGGCTCTGTTCACTCTAATCTCTGGGACTGGT | CTCTAATCTCTGGGACTGGTAACTGGTAAATAGAGTGCGATTCTGTAACATCGTGTCGTCT": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                0,
+                646
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_6M_96M_0M_0M_180M_137M_112M_116M_46",
+                "M_228M_1M_253M_160M_30M_6M_96M_0"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGTACCGCTAGCGGTAGCCGAACTAAGAATTCCGGAACCCTCTCGTAGCCGATCTAGGGCC | TTCCGGAACCCTCTCGTAGCCGATCTAGGGCCCTAATCCTCCCTAGTCGAGAGATCATCTG": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                647
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_150M_250M_45M_147M_247M_143M_253M_101",
+                "M_185M_21M_77M_191M_150M_250M_45"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGCAAGATGTGTCATATCGGGGTCCTCTCCGAAGACTGGCTAGATAGTAGCCAGCGCCAG | TCCGAAGACTGGCTAGATAGTAGCCAGCGCCAGGAATGTGTCCTAATTCCTAGATGCAGGA": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                648
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_115M_0M_77M_149M_6M_224M_149",
+                "M_224M_55M_207M_209M_115M_0M_77"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACCCCGAGGATTGCTGCAGGTTGCATACCACGTTGGGCGTCCTCTGTGTGATCGGCTACCT | CGTTGGGCGTCCTCTGTGTGATCGGCTACCTAACGCCTCATGTGAGCACAGCTAGCGACCC": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                716,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_133M_209M_97M_25M_132M_215M_91",
+                "M_203M_221M_133M_209M_97"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGGTTGTCTGTAGTCCTAGGACTCTCCACTCTGTCGCGGACGATCAAGTCCATAATTAGTT | GTCGCGGACGATCAAGTCCATAATTAGTTGTGCTGTCGCGAAACGATGTTACATCTTTAAG": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                651
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_208M_237M_73M_20M_52M_59M_228M_138",
+                "M_20M_235M_80M_156M_208M_237M_73"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCGGAGGGCATTTAGGATCTACGGCTGGGCATTCAGCACATGCAGCCTATCTATTAAACTT | ATGCAGCCTATCTATTAAACTTTTTTCGGCTGTGGAATACCAATTAACAGATATCGATGGC": {
+            "same_readset": false,
+            "overlaps": [
+                23
+            ],
+            "components": [
+                413,
+                653
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_100M_9M_139M_16M_52M_221M_73M_104M_29",
+                "M_208M_93M_13M_206M_126M_39M_215M_100M_9M_139"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CAATCGTGGGCTTTGCTGGGCTCCCCGTAATGATCGTGTCTCAGGATCCTAACCATCATGT | CAGGATCCTAACCATCATGTCCCTACCAGCGCTTTTCCGACACGGTGTACAAGTCGTTGAT": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                0,
+                654
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_149M_25M_202M_79M_223M_68M_118",
+                "M_134M_227M_247M_1M_97M_149M_25M_202"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACGAGTGACAATTCGGAGGACCGTCGGTGCATCTGCGGATAAGAAAGGGCGTTAACGAC | TCTGCGGATAAGAAAGGGCGTTACCGACGTTATCAACGCGAGACTCAGCGCTCCGAGTTTG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                728,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_32M_191M_133M_185M_125M_70M_26M_226",
+                "M_162M_19M_80M_32M_191M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTACCATTACAGGCGATACCGCGGTCGGTCACGTGTATCATCAGGACCCGCAATCACGCAG | TGTATCATCAGGACCCGCAATCACGCAGACGATCTTCTATAAGAGCAACAATAGAGGCAAG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                660
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_101M_80M_134M_15M_114M_155M_174",
+                "M_129M_108M_41M_181M_101M_80M_134"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACACCATCTATCCCATGGAAGCGTGCGCCGACCCCACACTCCGGCCCAACCAATGCTTTCC | ACCCCACACTCCGGCCCAACCAATGCTTTCCTCCAATGATTGGCAACATAGATCCTAGGGG": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                27,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_233M_226M_28M_245M_197",
+                "M_9M_169M_196M_67M_233M_226M_28"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GATTACAAATATTTACCGAGGTCCGTCCGGAACAGCCTTAGGGTCTGAAGAGGAGCCTTTT | TTAGGGTCTGAAGCGGAGCCTTTTTATGCACTCGTTGCCATTGACCTATTTCTTCGCAGAG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                718,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_105M_198M_171M_213M_10M_164M_12",
+                "M_94M_180M_185M_8M_193M_100M_105M_198M_171"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAGTCCCAGAGCCATGTCGCCGGGAGCGATAGGTGTCGGACGGTGTTGCGAAGTAATAGCT | TCGGACGGTGTTGCGAAGTAATAGCTGTCCCTTGGTTTGCACAGTGGCGTATGCAAAAAAA": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                155,
+                665
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_201M_69M_153M_24M_166M_215M_72M_47",
+                "M_24M_99M_202M_67M_92M_46M_201M_69M_153"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTGCCAGAGCCATGTCGCCGGGCGCGATAGGTGTCGGACGGTGTTGCGAAGTAATAGCTGT | TCGGACGGTGTTGCGAAGTAATAGCTGTCCCTTGGTTTGCACAGTGGCGTATGCAAAAAAA": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                665
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_201M_69M_153M_24M_166M_215M_72M_47",
+                "M_236M_99M_202M_67M_234M_46M_201M_69M_153"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCGCTCTCCCTGCGTGCGCACCCGGAAGTACAAAGGGGACCCACGCGTATTCTTGGGAACA | GGGACCCACGCGTATTCTTGGGAACATGCCAACGGCAACTCTATTATCAACGCCAACGTGA": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                666
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_140M_123M_66M_213M_18M_156M_125M_136",
+                "M_160M_195M_193M_140M_123M_66"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACTCCTTATGTGCCTGACGAGTTGCGTACGGGACGTGCAGGGCCCGCCGTGTAGGGTACCT | GCAGGGCCCGCCGTGTAGGGTACCTAGCCCTGGATTGCGTATGGTTTCTATAATCAGGAGC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                190,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_203M_62M_56M_77M_48M_84M_110",
+                "M_243M_186M_11M_238M_206M_142M_203M_62M_56"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTTCCCAGCAAGGTTTCATCGCGTGGGAAGAAAAGGTCTGCCATGGCTTTCAGGCGGTACC | GAAAAGGTCTGCCATGACTTTCAGGCGGTACCGCACGGGACAACATCTGTTCCTTTGTTAC": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                113,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_71M_107M_41M_178M_230M_44M_243",
+                "M_82M_101M_196M_71M_107M_41"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAAATCCTGAAAGAAGGATTCTAATAGGCAGTGGAGTTTTTTAGTAAACGGTCACATTCCA | GGAGTTTTTTAGTAAACGGTCACATTCCAGTCGGCAACGGAGACAGGTCACGTTCTCGGCA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                675
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_16M_54M_39M_245M_249M_8M_246",
+                "M_214M_192M_6M_220M_16M_54M_39"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTAAGTTGATCGTCTTGCGAGCAGTCTGGAATAAGGGCCACCCGGAGCTTGGCTATGGATA | AAGGGCCACCCGGAGCTTGGCTATGGATATATCACCTTAGATTGCAGCGAAGAGTGAGATA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                441,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_225M_163M_167M_204M_92M_179",
+                "M_238M_48M_244M_225M_163M_167"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTTTACTGGCACGAGCCAATCAACCCACCGAGAAAATCGAATTGTTTCTCGCGGGGTGCAA | TCAAATTGTTTCTCGCGGGGTGCAACGTGACCGTTCGGAGCTTCGGTAATATTCCACGGTC": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                299,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_84M_194M_34M_152M_164M_53M_140",
+                "M_63M_128M_134M_70M_84M_194M_34"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TAGTACATTATGAAAACCGGCTCTTAAGGTGGAAATGCGTACGATTCGTGAACACAATGAA | ATGCGTACGATTCGTGAACACAATGAACGAAGTAAAGAAGGTCAACAGACAACCCGGCGCC": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                75,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_59M_66M_122M_69M_191M_23M_234",
+                "M_228M_122M_172M_138M_59M_66M_122"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACCAAAGTAGCCTTCACGCTAGCTCGACATAAGACTACGAACTATCGACGCGGACCGTAGT | TATCGACGCGGACCGTAGTTAAACACTGAAGCCTGTCAGCATCGCATAGAACGGAGTAGAG": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                692
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_207M_208M_187M_231M_2M_4M_55M_116M_22",
+                "M_28M_77M_30M_91M_68M_57M_207M_208M_187"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAGGTACAGGGTCATCGTACGCGCCCAATAATGGGGGACACCAGTCCCTTCGGCGAATTGG | CCAATAATGGGGGACACCAGTCCCTTCAGCGAGTTGGGCAAAAACGAACATTGAAACCTAC": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                659,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_5M_254M_24M_26M_238M_245M_57M_214M_81",
+                "M_71M_38M_101M_35M_5M_254M_24"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GACTAGCCGCGGTTGTTGGCTTCGCTAATCACGTCTCGGACCACCAGTCATCGACAGACAT | GAACCACCAGTCATCGACAGACATTGAGGCAAACAGCCGGGTCGTGGAAACCGTGTATGGT": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                0,
+                698
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_17M_68M_119M_220M_100M_118M_120M_72",
+                "M_159M_87M_20M_164M_6M_61M_157M_17M_68M_119"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCATCAACATAGATATTCTTAGTGTTATAGGAAATGCCCGACATGGCATAACTGCTCGTC | TGCCCGACATGGCATAACTGCTCGTCCTAAGCCTCTGCCCTCGCCAGCTACGCCAGGTCGG": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                701
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_62M_176M_255M_4M_107M_43M_8",
+                "M_101M_123M_117M_173M_62M_176M_255"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCACATCGTACGACTTTTTGGCTTTATTAACTTAGACGGGGGCAGTTGGGTCGACCCCGGA | ATTAACTTAGACGGGGGCAGTTGGGTCAACCCCGGAATAGGATAGTTCAACCTTGAACGCA": {
+            "same_readset": false,
+            "overlaps": [
+                37
+            ],
+            "components": [
+                434,
+                702
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_212M_89M_238M_193M_167",
+                "M_44M_16M_212M_89M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCACTACCCACATCGTACGACTTTTTGGCTTTATTAACTTAGACGGGGGCAGTTGGGTCAA | ATTAACTTAGACGGGGGCAGTTGGGTCAACCCCGGAATAGGATAGTTCAACCTTGAACGCA": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                702
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_89M_238M_193M_167",
+                "M_44M_16M_212M_89M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGGACTACCCACATCGTACGACTTTTTGGCTTAATTAACTTAGACGGGGGCAGTTGGGTCA | ATTAACTTAGACGGGGGCAGTTGGGTCAACCCCGGAATAGGATAGTTCAACCTTGAACGCA": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                702
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_89M_238M_193M_167",
+                "M_80M_44M_16M_31M_212M_89M_238"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGACCTTTATTCTCGTAGAAAAACGTCTGAACCAGTGGGGGTTGTCTCTAGTCCTAGGACT | TGGGGGTTGTCTCTAGTCCTAGGACTCTCCACTCTGTCGCGGACGATCAAGTCCATAATTC": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                703
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_20M_146M_80M_156M_208M_237",
+                "M_171M_240M_22M_205M_20M_146M_80"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGTAAACGTTAATGGCATACCCTATGCGTAAGTGGGGACTAAGATTATCGTGAGGGCCGT | GCGTAAGTGGGGACTAAGATTATCGTGAGGGCCGTTTCTACATGCTGCGTGCTGGGGATCC": {
+            "same_readset": false,
+            "overlaps": [
+                36
+            ],
+            "components": [
+                742,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_1M_125M_74M_199M_165M_227M_13",
+                "M_85M_5M_221M_1M_125M_74"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGACCACCCCGAACGGAAATGAACCATATTCGCGCCGCGCCGGCTACACCAATAGATATT | TCGCGCCGCGCCGGCTACACCACTAGATATTTGCTGAAATGTAGTTACCTAGTCCATGTGT": {
+            "same_readset": false,
+            "overlaps": [
+                32
+            ],
+            "components": [
+                319,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_67M_67M_60M_159M_10M_216M_235M_146M_202",
+                "M_115M_193M_122M_98M_67M_67M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCAACGACCACCCCGAACGCAACTGAACCATATTCGCGCCGCGCCGGCTACACCAATAGAT | TCGCGCCGCGCCGGCTACACCACTAGATATTTGCTGAAATGTAGTTACCTAGTCCATGTGT": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                315,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_67M_67M_60M_159M_10M_216M_235M_146M_202",
+                "M_136M_115M_98M_67M_67M_60"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ACGATCTGGTTGAGTCTGGTTGGAGTTCCCTACCCGTATCTCCGGTCTATTATATTGTGGG | ACCCGTATCTCCGGTCTATTATATTGTGGGGAACACGCCGGGTGCTCGTCTCGTAGAAGCG": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                581,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_251M_226M_9M_66M_67M_45",
+                "M_59M_76M_135M_76M_141M_251M_226M_9"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTAGTCGTGCAACGAACTAGCTCGCAATGGAAATGTAGCATCCGGTTCAGAGCAGGTCCGG | TGTAGCATCCGGTTCAGAGCAGGTCAGGTGTTAGATCCTCCCATAGGAATACAAAACCCGG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                635,
+                711
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_90M_12M_8M_201M_197M_247M_47",
+                "M_143M_34M_57M_153M_90M_12M_8"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TTTTTAGTCGTGCAACGAATTAGCTCGTAATGGAAATGTAGCATCCGGTTCAGAGCAGGTC | TGTAGCATCCGGTTCAGAGCAGGTCAGGTGTTAGATCCTCCCATAGGAATACAAAACCCGG": {
+            "same_readset": false,
+            "overlaps": [
+                26
+            ],
+            "components": [
+                0,
+                711
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_90M_12M_8M_201M_197M_247M_47",
+                "M_16M_118M_136M_73M_1M_90M_12M_8"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGCAGCCCAGGAGTAAGCCGTGACTAGATCGATCCTCAGGGAAGCTTACGTCCAGGCGCCC | GCTTACGTCCAGGCGCCCCACCAAAGGGTGAAGGTAAGAATGTATCGCCTCGTATTGGCAT": {
+            "same_readset": false,
+            "overlaps": [
+                19
+            ],
+            "components": [
+                349,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_31M_237M_234M_28M_105M_192M_191M_207",
+                "M_100M_149M_4M_159M_158M_31M_237M_234"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCTCGATTATATTCGAACTGTCATCGTAAGTAATGCGTTCGCCAGAGACGCACGAACAACA | CAGAGACGCACGAACAACACCGACTCGACATTTTCGGTCCTTCTGTTGCTAGAAAAGCGCG": {
+            "same_readset": false,
+            "overlaps": [
+                20
+            ],
+            "components": [
+                0,
+                716
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_12M_128M_23M_68M_223M_243M_106M_91",
+                "M_137M_57M_55M_1M_53M_12M_128M_23"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TATTCGAACTGTCATCCGAAGTAATGCGTTCGCCAGAGACGCACGAACAACACCGACTCGA | CAGAGACGCACGAACAACACCGACTCGACATTTTCGGTCCTTCTGTTGCTAGAAAAGCGCG": {
+            "same_readset": false,
+            "overlaps": [
+                29
+            ],
+            "components": [
+                0,
+                716
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_12M_128M_23M_68M_223M_243M_106M_91",
+                "M_57M_55M_115M_53M_12M_128M_23"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "ATCGACAAATTACCTCCCCGTCTTGATGGCTGCTCGTGCACAGTCTTCTGAACCCCTACGT | CGTGCACAGTCTTCTGAACCCCTACGTTGACTAGCTTGTCAGTAACTGCTTCGTTTGACAG": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                717
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_215M_114M_79M_159M_27M_54M_164M_19",
+                "M_68M_73M_247M_219M_215M_114M_79"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GGAGTGTAGCCGGGAGAATTGGAAGCAATCCGAAAGGAGGTTTTTGAGCAAGGACGTGACG | GAAAGGAGGTTTTTGAGCAAGGACGTGACGACGCGGTCGCTTGTGACATCGGTTTTCACCT": {
+            "same_readset": false,
+            "overlaps": [
+                31
+            ],
+            "components": [
+                0,
+                721
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_177M_252M_82M_121M_163M_19M_223",
+                "M_117M_40M_102M_196M_134M_177M_252M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCCGGAGTGTGGACGGGAGAATTGGAAGCAATCCGAAAGGAGGTTTTTGAGCAAGGACGTG | GAAAGGAGGTTTTTGAGCAAGGACGTGACGACGCGGTCGCTTGTGACATCGGTTTTCACCT": {
+            "same_readset": false,
+            "overlaps": [
+                28
+            ],
+            "components": [
+                0,
+                721
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_177M_252M_82M_121M_163M_19M_223",
+                "M_117M_230M_196M_134M_177M_252M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CGGAGTGTAGACGGGAGAATTGGAAGCAATCAGAAAGGAGGTTTTTGAGCAAGGACGTGAC | GAAAGGAGGTTTTTGAGCAAGGACGTGACGACGCGGTCGCTTGTGACATCGGTTTTCACCT": {
+            "same_readset": false,
+            "overlaps": [
+                30
+            ],
+            "components": [
+                0,
+                721
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_177M_252M_82M_121M_163M_19M_223",
+                "M_117M_15M_249M_196M_134M_177M_252M_82"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTACTTCAACCTCGAGGTCCGCATATGTCGTTCAATATACTTCCTTTATGATCAGGGCGT | TCGTTCAATATACTTCCTTTATGATCAGGGCGTAACCCGGTGCCCACGACTTAATAGTAAT": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                722
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_232M_243M_133M_90M_140M_212M_54",
+                "M_170M_124M_8M_113M_51M_232M_243M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTCAACCTCGAGGTCAGCATATGTCGTTCAGTATACTTCCTTTATGATCAGGGCGTAACC | TCGTTCAATATACTTCCTTTATGATCAGGGCGTAACCCGGTGCCCACGACTTAATAGTAAT": {
+            "same_readset": false,
+            "overlaps": [
+                38
+            ],
+            "components": [
+                0,
+                722
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_232M_243M_133M_90M_140M_212M_54",
+                "M_124M_8M_58M_232M_243M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CCAGTATCACCGCACGGTTTATAGCTAGAAAATCTTAACGTGAGAAGGACTAATGAAACCA | TGAGAAGGACTAATGAAACCACCTTTTGCATAAGTGGATACTTTTCGCGTGCTCAAATTAC": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                66,
+                724
+            ],
+            "edge_weight": 178,
+            "encodings": [
+                "M_192M_6M_120M_171M_167M_223M_73",
+                "M_178M_173M_192M_6M_120"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTCGTTATCAACATATTATCCCAGTTATATTGTGTCCGTGCCGACAATCTAATTATCATA | GATTGTGTCCGTGCCGACAATCTAATTATGATACTGAGTACTTCTGAGACCGAGTTCCAAT": {
+            "same_readset": false,
+            "overlaps": [
+                34
+            ],
+            "components": [
+                0,
+                725
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_236M_134M_73M_168M_135M_229M_152",
+                "M_164M_125M_125M_217M_236M_134M_73"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GTCTTGTCCTTACCCAGCCGTGCCCAAGGTATGTAACAATCGATCGGCAGATGCGGTGATA | CGATCGCCAGATGCGGTGATAGAGGGGCGTCCCTTGCAGCCTGTAGTCTGCTGTTGCAAGA": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                346,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_97M_104M_41M_174M_133M_141M_100M_235M_52M_34",
+                "M_27M_170M_100M_236M_82M_58M_134M_97M_104M_41"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTCGGAATCGGGTGCAACGAACCGCCGGCGCGGGAGTTCATTCTCTCTCCGGGCGTTGGAA | TCATTCTCTCTCCGGGCGTTGGAAGTAACAGGGACTCATAACTTGTAAGTATGGGGAATAG": {
+            "same_readset": false,
+            "overlaps": [
+                25
+            ],
+            "components": [
+                185,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_39M_3M_133M_196M_38M_14M_75M_72",
+                "M_157M_145M_34M_57M_67M_194M_39M_3M_133"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AGGTCGTTGATGCTATACATTGATCCCCGTTACGTCTTAAGAGATATCACACTTACATGAT | TTACGTCTTAAGAGATATCACACTTACATGAATCCCCATCCTACCTCCTTCCTCGAGTGTT": {
+            "same_readset": false,
+            "overlaps": [
+                33
+            ],
+            "components": [
+                0,
+                734
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_138M_222M_228M_103M_169M_81M_243M_117",
+                "M_8M_165M_228M_251M_138M_222M_228"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TCATCGGGCGCCCGCCAATATCGCGGGAGGACAAATACTTTCTATCAGGTTTAATCCTTCC | TACTTTCTATCAGGTTTAATCCTTCCGCAGGTCGTCATCAGTATACCAAGGCACCCGTGGT": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                738
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_84M_252M_110M_150M_8M_101M_232M_82M_251",
+                "M_101M_133M_207M_230M_254M_84M_252M_110"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "GCAAAAACGAACATTGAAACCTACTACAAACCTGTGACTTATGCTCGCAGGGGAGTTATCG | GACTTATGGTCGCAGGGGAGTTATCGAGTCGTAATCGCGGGGCTATCAGTTTCTTTCTTCA": {
+            "same_readset": false,
+            "overlaps": [
+                27
+            ],
+            "components": [
+                0,
+                740
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_212M_203M_125M_118M_218M_89M_217M_84",
+                "M_241M_57M_214M_81M_37M_212M_203M_125"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "TGCGCGGCGCGATACGGGGTGGTCGCGTACTCGAATCGTGAATGAGTTTACAAGGAGTCTG | AATGAGTTTACAAGGAGTCTGGGGGGTAAACGACGATACCATGACCTTAAGCTGAGTACTT": {
+            "same_readset": false,
+            "overlaps": [
+                22
+            ],
+            "components": [
+                153,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_135M_82M_244M_139M_59M_88M_138M_135",
+                "M_234M_108M_103M_135M_82M_244"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "CTTGTGAGTTGGGAAACGATCCCCTGCCATTAACTACTCTTAATTACATGGGGCAGTGAAA | CTTAATTACATGGGGCAGTGAAACCGCCTTACACCCGGACTGTCTTTCACCAGACTAATTT": {
+            "same_readset": false,
+            "overlaps": [
+                24
+            ],
+            "components": [
+                568,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_73M_89M_214M_170M_30M_6",
+                "M_135M_59M_195M_129M_156M_73M_89M_214"
+            ],
+            "minimizer_set_idx": 0
+        },
+        "AAACACTGCGGCCCGTCAACTCTAACCTGTACGCGTCGCATCGATTGGTGGTGCTCGTAAC | TAACCTGTACGCGTCGCATCGATTGGTGGTGCTCGTAACACTGAGAAGTCGAAGTTAGGTC": {
+            "same_readset": false,
+            "overlaps": [
+                40
+            ],
+            "components": [
+                486,
+                0
+            ],
+            "edge_weight": 691581,
+            "encodings": [
+                "M_113M_137M_1M_2M_8",
+                "M_184M_62M_156M_113M_137M_1"
+            ],
+            "minimizer_set_idx": 0
+        }
+    },
+    "meta_data": {
+        "number_valid_matches_found": 308,
+        "number_invalid_matches_found": 2,
+        "additional_components_connected": 0,
+        "component_connections": []
+    }
+}

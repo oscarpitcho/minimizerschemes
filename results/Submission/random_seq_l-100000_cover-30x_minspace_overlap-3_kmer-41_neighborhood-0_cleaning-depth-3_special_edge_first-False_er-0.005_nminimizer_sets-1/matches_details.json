@@ -1,0 +1,26 @@
+{
+    "data": {
+        "TATTTTACTCTCGACATAGCACACGCCTAAATTATTGCAGC | CAAGCCTAAATTATTGCAGCTCTGGCTTTTATATGCGGTTG": {
+            "same_readset": false,
+            "overlaps": [
+                21
+            ],
+            "components": [
+                2,
+                0
+            ],
+            "edge_weight": 422460,
+            "encodings": [
+                "M_230M_54M_185M_21M_106M_219",
+                "M_56M_151M_230M_54M_185"
+            ],
+            "minimizer_set_idx": 0
+        }
+    },
+    "meta_data": {
+        "number_valid_matches_found": 1,
+        "number_invalid_matches_found": 0,
+        "additional_components_connected": 0,
+        "component_connections": []
+    }
+}

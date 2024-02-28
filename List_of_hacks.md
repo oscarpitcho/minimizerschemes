@@ -1,0 +1,2 @@
+ - When we create a match we only do it between different connected components
+ - We iterate over the special edges first when doing the paths. We don't analyze them if they have been walked over already. This can only be the case for a path that started from another special node

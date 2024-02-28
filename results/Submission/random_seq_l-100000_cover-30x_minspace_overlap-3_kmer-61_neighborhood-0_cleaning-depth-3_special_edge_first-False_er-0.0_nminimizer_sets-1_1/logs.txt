@@ -1,0 +1,14 @@
+Iteration 0 - Number of nodes: 99932
+Iteration 1 - Number of nodes: 99932
+Iteration 2 - Number of nodes: 99932
+Iteration 3 - Number of nodes: 99932
+Iteration 4 - Number of nodes: 99932
+Iteration 5 - Number of nodes: 99932
+Iteration 6 - Number of nodes: 99932
+Iteration 0 - Number of nodes: 99932
+Iteration 1 - Number of nodes: 99932
+Iteration 2 - Number of nodes: 99932
+Iteration 3 - Number of nodes: 99932
+Iteration 4 - Number of nodes: 99932
+Iteration 5 - Number of nodes: 99932
+Iteration 6 - Number of nodes: 99932
